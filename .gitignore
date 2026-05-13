@@ -1,0 +1,22 @@
+# Visual Studio files
+.vs/
+*.vcxproj.user
+
+# Build folders
+build/
+Debug/
+Release/
+x64/
+
+# Compiled files
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# Logs
+*.log

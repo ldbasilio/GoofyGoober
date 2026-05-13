@@ -1,0 +1,2901 @@
+1|What is your idea of perfect happiness?
+2|What is your greatest fear?
+3|What is the trait you most deplore in yourself?
+4|What is your greatest extravagance?
+5|What is your current state of mind?
+6|What do you consider the most overrated virtue?
+7|On what occasion do you lie?
+8|What do you most dislike about your appearance?
+9|Which living person do you most despise?
+10|What is the quality you most like in a man?
+11|What is the quality you most like in a woman?
+12|Which words or phrases do you most overuse?
+13|What or who is the greatest love of your life?
+14|When and where were you happiest?
+15|Which talent would you most like to have?
+16|If you could change one thing about yourself, what would it be?
+17|What do you consider your greatest achievement?
+18|If you were to die and come back as a person or a thing, what would it be?
+19|Where would you most like to live?
+20|What is your most treasured possession?
+21|What do you regard as the lowest depth of misery?
+22|What is your favorite occupation?
+23|What is your most marked characteristic?
+24|What do you most value in your friends?
+25|Who are your favorite writers?
+26|Who is your hero of fiction?
+27|Which historical figure do you most identify with?
+28|Who are your heroes in real life?
+29|What are your favorite names?
+30|What is it that you most dislike?
+31|What is your greatest regret?
+32|How would you like to die?
+33|What is your motto?
+34|Do you like watching reruns?
+35|Have you ever won any kind of contest yourself?
+36|What gives you cheap thrills?
+37|What do you think is worth waiting for?
+38|Are you an organ donor, if so why/why not?
+39|Should parenting classes be mandatory for new parents?
+40|What is the number one thing people are always asking you for help with?
+41|What movie did you love the original but hate the sequel?
+42|Are you more talk and less action or vice versa?
+43|Have you ever given someone a handmade present?
+44|What type of person angers you the most?
+45|Could you live without electricity for a week?
+46|Do you think Great Britain should be part of a united Europe?
+47|Have you ever eaten a whole tube of Pringles by yourself?
+48|Do you like champagne, if so what is your favorite brand?
+49|What nervous habits do you have?
+50|What do you do when you and your best friend get into a fight?
+51|What do you think should be a wonder of the world that currently isn’t?
+52|What comforts you on bad days?
+53|Do you treat yourself and your body with respect?
+54|Something you eat that other people would find gross. Have you ever broken the law and didn’t get caught, if so how?
+55|Something you fear might change you. What personality trait in people raises a red flag with you?
+56|Have you ever resented someone, if so what for?
+57|Do you have a favorite t-shirt, if so what’s on it or what does it say?
+58|How old do you think is too old to have a baby?
+59|How have you changed over the last 5 years?
+60|Have you ever painted a house?
+61|Have you ever had a surprise party (that was an actual surprise)?
+62|What makes you feel miserable?
+63|What’s the best costume you’ve ever worn?
+64|What’s been the hardest loss you've had to take?
+65|Do you like sunny days or rainy days more?
+66|What does your typical Friday night look like?
+67|Who is your favorite movie director and what's your favorite movie from them?
+68|What is the furthest you’ve ever got a paper airplane to fly?
+69|Do you like the person you’re becoming?
+70|What's the highest you’ve ever jumped into the water from?
+71|What inspires your ideas?
+72|Have you ever assembled furniture by yourself?
+73|Have you ever bolstered your resume to get a job you really wanted?
+74|How emotional are you?
+75|Have you ever had an internship, if not what would be your dream intern job?
+76|Do you prefer chicken, beef or seafood?
+77|Have you ever had a health scare?
+78|What do you love most about the holiday season?
+79|Do you think a fling could be a good thing?
+80|What part of your routine do you always try to skip if you can?
+81|What do or did you hate most about dating or the dating process?
+82|What do you frown upon when it comes to raising kids?
+83|Have you ever been professionally photographed?
+84|Where or how do you find serenity?
+85|Do you influence people more than they influence you?
+86|What can you do to make your life better?
+87|If you could ask one person, alive or dead, only one question, what would you ask?
+88|What is your favorite hiding place?
+89|Do you buy anything organic, if so what?
+90|Describe yourself in terms of food. How could you reinvent yourself?
+91|What was the name of the first album you ever bought and who was it by?
+92|What is your Chinese zodiac sign and is the description accurate?
+93|Do you have any prejudices you’ve admitted to yourself?
+94|Who is the very first friend you ever remember making and how old were you?
+95|What makes you lose sleep?
+96|What are 3 phrases or sayings you say almost every day?
+97|Do you floss or use a toothpick when food gets stuck in your teeth?
+98|Have you ever swerved off the road to avoid hitting something?
+99|Compare your driving skills to something?
+100|What food is romantic to you?
+101|Do you forgive and forget, just forgive but not forget or neither?
+102|Have you ever had an out of body experience?
+103|If so describe it in one word. How easy is it for you to get along with people?
+104|Has someone ever given you a “last chance” and for what?
+105|Something on your “to-do list” that never gets done. What’s your favorite thing to eat with your fingers?
+106|What is your favorite or most used cookbook?
+107|What food best describes your personality?
+108|Would you ever do a ride along with a cop, if so what do you want to see?
+109|Do you think ignorance is bliss?
+110|Are you a pacifist?
+111|What do you need to do to grow?
+112|What is something you wish you learned?
+113|Where’s your favorite place to order pizza?
+114|Who taught you how to drive?
+115|If you were to ever win a Nobel Peace Prize, what do you think it would be for?
+116|Do you ask enough questions or do you settle for what you know?
+117|Have you ever helped someone across the road?
+118|What is legal that you think should be illegal?
+119|Would you rather own a private jet or luxury yacht?
+120|What’s the first impression you want to give people?
+121|Which would you rather have if you had to, a broken leg or a broken arm?
+122|What profession do you think is the most undervalued today?
+123|i2Z7 What is your favorite thing to put ice cream on or eat ice cream with?
+124|Who would you love to collaborate with and what would you collaborate on?
+125|Where do you cut costs when you need to save?
+126|What was one thing you begged your parents for as a kid and they finally gave it to you?
+127|If you could have someone serenade you over a candle light dinner, who would it be?
+128|Do you think horoscopes are accurate?
+129|How do you describe millennials?
+130|What have you ever ran from that you needed to face?
+131|What makes you unique?
+132|Do you have a pet, if so what kind?
+133|Is7 If you were a bartender what famous person would you like to serve?
+134|If you could choose your last words, what would they be?
+135|Do you have a calling on your life?
+136|Have you ever let someone win an argument even if you knew you were right, if so who?
+137|Could you ever be a medical guinea pig?
+138|What is the most annoying thing about the opposite sex?
+139|How do you feel about investing your money?
+140|What is something you'd like to grow instead of buying?
+141|How do you like to take your coffee or tea?
+142|How smart is your significant other, who is smarter?
+143|What is your preferred swimming stroke?
+144|Have you ever had something snowball out of control, if so what?
+145|What is the likelihood you'll make the half-court at a game for some serious cash?
+146|What is the main thing you like to do on vacations?
+147|Were you popular in school, if so what made you popular?
+148|What risk would you take if you knew you wouldn't fail?
+149|What was an offer you couldn't refuse?
+150|Do you believe in angels?
+151|If you were guaranteed the correct answer to one question, what would you ask?
+152|Would you rather lose all of your old memories or never be able to make new ones?
+153|Have you ever been at the wrong place at the wrong time, where?
+154|Have you ever been whistled at in public?
+155|es] What is something totally relatable to you?
+156|What's the best pickup line you've ever heard?
+157|Would you ever steal to provide for your family?
+158|In your opinion who do you consider a visionary?
+159|If you could live forever, would you want to?
+160|What or who are you a champion for?
+161|What is your favorite store at the mall?
+162|Have you ever touched a snake or would you?
+163|What do you think gets better with age?
+164|Do you ever forward or reply to chain mails?
+165|What scientist in history is most credible?
+166|Have you ever been called immature, if so what were you doing to be called that?
+167|ls there a place in your neighborhood or city you’ve been meaning to visit, if so where?
+168|What slogan or jingle got stuck in your head forever?
+169|Could you ever grow your own food?
+170|If you could be a bird, which would you be?
+171|Do you watch foreign films, if so do you have a favorite?
+172|What specific work of art do you admire the most?
+173|Which are cooler: dinosaurs or dragons?
+174|Has your work ever come between a relationship you were in, ifSo how?
+175|IPAS) Have you ever needed to find yourself and if so are you still looking?
+176|What is your all-time favorite selfie, and what was going on in it?
+177|, If you could have a clone to help you out when life gets busy, would you want one?
+178|What are you “self-taught”?
+179|The Beatles or Rolling Stones?
+180|What do you try and keep an open mind about?
+181|Would you rather ride along with a firefighter or police officer for a day?
+182|Do you believe in the saying kill your enemies with kindness?
+183|What do you love most about the night sky?
+184|In an argument do you have to have the last word?
+185|Have you ever participated in a fundraiser, if so for what cause?
+186|What is the heaviest thing you can lift?
+187|Would you ever consider training for a triathlon?
+188|Tg2 What is your perfect pairing for coffee?
+189|a3 How strict are you going to be as a parent?
+190|Who do you matter most to?
+191|What movie director do you find completely genius?
+192|What’s your favorite hobby?
+193|Do you think a person can be born evil?
+194|Do you believe in PDA (public displays of affection)?
+195|Would you date anyone in a wheelchair or with a handicap?
+196|What is an article of clothing you’ve bought or received second hand and loved wearing?
+197|Who would you rather hang out with for a day-Superman or Batman?
+198|What makes you feel secure?
+199|Do you sing in the shower?
+200|What makes you feel inadequate?
+201|What does your perfect weekend consist of?
+202|If you could live anywhere, where would that be?
+203|Do you have a nerdy side, if so what brings it out?
+204|Do you think children are a blessing or a burden?
+205|What’s the hardest thing you’ve ever had to plan?
+206|What is the best knock-knock joke you've heard?
+207|What is your greatest source of inspiration?
+208|What’s the wildest thing you've ever done?
+209|If you could be trained in any one thing by top professionals what would you choose?
+210|What is the highest hill or mountain you've ever climbed?
+211|Do you think making driverless cars is a smart invention?
+212|Use a cartoon character to describe your athletic ability. Do you like to plan things out in detail or be spontaneous?
+213|Do you like living alone or with someone?
+214|Do you make time for what matters most for you?
+215|What makes you feel unattractive?
+216|How many hats do you own?
+217|Have you ever contributed to the development of something you were proud of?
+218|What is your favorite song to sing in the shower?
+219|Do you make a “to-do list” every day, weekly or when?
+220|If a loved one was to serenade you, what song would you most like them to sing?
+221|What is your opinion on rats as pets?
+222|Were you ever really passionate about something then suddenly = interest, what was it?
+223|Which was your favorite science? Biology, physics or chemistry?
+224|Can you erect a tent?
+225|Have you ever received counseling or therapy and did it help?
+226|Have you ever sued or wanted to sue someone, why?
+227|Who would you want to star opposite you, if you were in a movie?
+228|Do you believe in the death penalty?
+229|Have you ever done something to your parents that you regretted?
+230|Have you ever nicknamed someone and it stuck, if so who and what was the nickname?
+231|If you knew you would die tomorrow, would you feel cheated today?
+232|Who influenced your life the most?
+233|What is the simplest truth you can express in words?
+234|Have you ever been famous?
+235|Have you ever posted a video on YouTube, what was the video about?
+236|Do you prefer music on vinyl or streaming?
+237|What do you do when you get nervous?
+238|Where's your favorite place to get coffee or tea?
+239|Did you ever have an embarrassing moment in gym class in school?
+240|What do you love most about yourself?
+241|If you started a business tomorrow what would it be?
+242|What is one thing you've learned about people over the years?
+243|How judgmental are you towards other people?
+244|What's your ratio of naughty to nice?
+245|What is history’s most tragic love story in your opinion?
+246|Have you ever went after anything (job, relationship, etc.) and didn’t get it?
+247|Which activities make you lose track of time?
+248|In what way has money impacted you negatively?
+249|What celebrity designer would you want to redo your home?
+250|Do you believe in an eye for an eye?
+251|How was your very first kiss?
+252|What age would you not want to live past?
+253|What celebrity do you think got carried away with plastic surgery?
+254|If you could hire any wedding singer, who would you choose and what song?
+255|What age do you think is too young to get married?
+256|What one thing do you think all successful leaders have in common?
+257|Have you ever donated blood and if so do you do it regularly?
+258|Do you have a birthmark, If so where?
+259|Do you prefer watching a movie at home or at a theater?
+260|Are you much of a gambler?
+261|Do you believe confession is good for the soul?
+262|If you could own one famous original work of art, what piece would it be?
+263|Do you sometimes spend money you don’t have or live above your means?
+264|Do you have a specific disease that runs in your family that worries you?
+265|Asa kid were you ever frightened of a monster under the bed and what did it look like?
+266|Would you break the law to save a loved one?
+267|Do you like to receive bad news sugarcoated or bluntly?
+268|Do you think celebrities should be looked at as a role model or just for entertainment?
+269|Do you believe in God or a higher power?
+270|pea be Where is your favorite place to meditate?
+271|If you ever decided to run for President, what would be your campaign slogan?
+272|Va) After a long, hard day at work or school, what do you like to do?
+273|If you could bankrupt one person or company who would it be?
+274|Who texts you the most, and why?
+275|What’s the best excuse you've given or would give to a bill collector?
+276|If you were going on Dancing with the Stars, whom would you want as your partner?
+277|Have you ever made your own ice cream?
+278|Do you prefer your hair longer or shorter?
+279|What public figure do you disagree with the most?
+280|Do you buy people mementos when you go on vacation?
+281|Describe Mondays for you in one word. Have you ever ran out of gas in your car, if so where?
+282|What does honor mean to you in a few words?
+283|Have you ever been on a group outing, where did you go?
+284|Do you like throwing parties?
+285|Have you ever been on TV?
+286|What is your idea of moral support?
+287|Do you own a camera and if so what was the last photo you took?
+288|If you could challenge anyone to a boxing match, whom would you want to fight?
+289|What do you think still has a double standard?
+290|Did you ever skip school before and if so what did you do instead?
+291|Do you prefer water skiing or snow skiing?
+292|Rate your table etiquette on a scale of 1-10 with 10 being outstanding and 1 being awful. What song makes you dance uncontrollably?
+293|Have you ever tried a savory pie, if so what kind?
+294|What is the most dangerous thing you have ever done?
+295|Have you ever dated someone your parents didn’t like?
+296|Which do you prefer: pony tails or pig tails?
+297|When have you ever made the first move?
+298|Have you ever felt violated and if so in what way?
+299|What are you superstitious about?
+300|Where are you considered a regular at?
+301|If you were a super hero what would your hero name be?
+302|In the haste of your daily life, what are you not remembering?
+303|What is the best thing about being you?
+304|What is the most important thing to carry with you all the time?
+305|When you find someone physically attractive, what’s the first thing you notice?
+306|What is the most cliché thing you have done in your life?
+307|What do you feel is the perfect food for a food fight?
+308|What is your most favorite feature on your favorite electronic device?
+309|A wish you make again and again. Have you ever been on a blind date?
+310|Are you OCD about anything?
+311|What happened to put you at your lowest low?
+312|How do you get into the holiday spirit?
+313|S21 When people look you in the eyes, what do you hope they see?
+314|For your wedding ceremony do you want it big and elaborate or small and intimate?
+315|What is your favorite sci-fi film/program etc.?
+316|Have you ever played a practical joke on anyone?
+317|Do you have a crush right now? Who is it?
+318|Have you ever helped someone through a trauma?
+319|When you were a kid did you ever want to run away from home, if so why?
+320|Do you have any lucky items, objects or traditions?
+321|What is the tallest tree you’ve ever climbed?
+322|Describe your sense of humor in one word. What has required you to put constant thought into it?
+323|Do you have any questions you're just too scared or embarrassed to ask anyone about?
+324|fF fel What is your favorite actress beginning with the letter J?
+325|What was the hardest personal goal you’ve set for yourself?
+326|Do you operate with the motto “it’s my way or the highway” and if so does it work for you?
+327|What's the last thing you’ve done that you were really proud of?
+328|Would you win more money at Jeopardy or Wheel of Fortune?
+329|What are you really lazy about?
+330|Have you ever used the phrase “back in my time” to someone younger than you?
+331|Which is better, Mario or Sonic?
+332|What do you think one of the biggest cons about being famous would be?
+333|Has anyone or anything specific ever made you feel inferior, if so what?
+334|Do you think stay at home mothers should be paid a salary?
+335|What would the scariest place to get lost at?
+336|Besides a pickle, what is your favorite thing that’s pickled?
+337|Do you sing to yourself?
+338|How many of your friends would you trust with your life?
+339|Do you have an image of something you'll never forget?
+340|Have you ever demolished a wall or building?
+341|What nickname have you been called you hate?
+342|What great mystery do you want solved?
+343|What is your favorite movie that won an Oscar?
+344|Have you ever felt like you didn’t fit in, if so where or when was it?
+345|Do you throw bread for the ducks?
+346|e168) What brings a tear of joy to your eye?
+347|Do you ee keeping animals in captivity is wrong?
+348|What are you unapologetic for?
+349|Do you like your music loud or quiet for easy listening?
+350|How easy are you to satisfy?
+351|Do you think home schooling is beneficial or harmful?
+352|Has anything ever came to you in a vision or a dream?
+353|If you were going to write a poem for the world, what would be the title and topic?
+354|Have you ever done something heroic?
+355|Have you ever maxed out your credit cards, on what?
+356|What was the most obvious publicity stunt a celebrity ever pulled?
+357|Do you like to describe what you see in the clouds?
+358|What actor or actress do you think is too overrated?
+359|What clothing designer do you LOVE?
+360|Do your dreams ever tell you to do anything?
+361|If you were going to poison someone, how would you do it?
+362|What would you do in a world war situation?
+363|Do you operate better at night or during the day?
+364|Would you ever become a CIA agent, if so why?
+365|If you were an attorney is there any type of criminal case you wouldn't defend?
+366|What part of life would you put a BIG warning label on?
+367|What relationship or friendship do you regret ended?
+368|Have you ever bought someone jewelry?
+369|What was the worst hairstyle you ever had?
+370|S72 Who knows you better than anyone else?
+371|Have you ever licked a battery?
+372|What black and white movie Is your favorite?
+373|Do you play any games on your smartphone, if so what’s your favorite?
+374|Do you have any family heirlooms?
+375|If you had to lose one of your 5 senses, which one would you give up?
+376|Have you ever gone through a transformation, if so what did it involve?
+377|Are you a role model for anyone in your life?
+378|What book have you read multiple times?
+379|Is there ever a good time to be confrontational?
+380|In a typical week how much time do you spend on the internet?
+381|Are you happy with your life at this moment?
+382|What is your smartphone missing that you wish the designer would add?
+383|Have you ever worn clothing with the labels/tags still attached?
+384|What would you do if you came face to face with a huntsman spider?
+385|What song is your favorite to slow dance to?
+386|What character flaw of yours is both good and bad?
+387|What is something you just have not been able to get over, even as time passes?
+388|Have you ever gotten into trouble and couldn’t get yourself out? Who did you ask for help?
+389|Have you ever drawn on a sleeping person?
+390|What do you want written on your tombstone?
+391|What's your favorite accent?
+392|Have you ever done anything that was forbidden?
+393|Would you risk being late to work and fired in order to save an injured dog?
+394|Have you ever seen a tornado up close?
+395|What movie do you wish had a sequel?
+396|Do you like nachos, if so what topping is a MUST have?
+397|What do you not take seriously enough?
+398|Has anyone ever approached you thinking you were someone else?
+399|How tech savvy are you?
+400|Have you ever dated two people at the same time?
+401|Name 3 things about where you live that you find most beautiful?
+402|If you were to remain single for the rest of your life do you think you could be happy?
+403|What is the worst thing that could happen to you on a date?
+404|Do you sleep with the TV or radio on?
+405|What is your favorite thing to celebrate?
+406|What are von candid about?
+407|What lies do you often tell yourself?
+408|Have you ever snuck in somewhere you shouldn’t have been, if so where?
+409|What dish or food usually served hot, and do you think is better cold?
+410|Do you tend to live in the past, present or future?
+411|If you could ask your future self one question what would it be?
+412|What's the worst thing your parents ever said to you?
+413|What was your worst nightmare?
+414|Do you hold a grudge?
+415|Have you ever crashed a wedding?
+416|In your opinion what is the most toxic personality trait?
+417|How are you quirky?
+418|Is there something missing from your life?
+419|Too much is never enough of...?
+420|Which is better, violins or pianos?
+421|Do you have a secret place you go to when you want to be alone?
+422|What’s the funniest thing you’ve ever done to your parents?
+423|Did you or will you go to prom?
+424|What’s your favorite season?
+425|What is the most romantic poem you’ve ever heard, who wrote it?
+426|Have you ever created an opportunity for anyone else?
+427|Do you like energy drinks, if so what one is your favorite?
+428|Could you fire someone you're friends with if it was your job?
+429|How many people have you dated?
+430|Who do you trust the most in your life?
+431|Have you had a strange encounter that you can’t explain or are scared to share?
+432|What questions would you ask the older residents if you were visiting a nursing home?
+433|Have you ever used the opposite sex restroom in an emergency, if not would you?
+434|Do you read the labels on the food you buy or do you just buy what you like?
+435|What is the craziest thing you’ve ever asked Siri?
+436|In what way do you pamper yourself?
+437|Do you like rap music, if so who is your favorite rapper?
+438|If you were a psychologist, whom would you love to get on your couch for conversations: Would you prefer either a chauffeur or private chef for one month as a gift?
+439|Do you believe in psychics and their abilities?
+440|What charity holds a special place in your heart?
+441|Best message you ever got in a fortune cookie. What is the worst smell you have ever smelled?
+442|What was the most memorable class you've ever taken in school or college?
+443|Where is the scariest place you’ve ever been stuck or trapped?
+444|In your opinion is anything lacking from music today?
+445|What would you do if you made a mistake and somebody died?
+446|Have you ever had an adventure in babysitting?
+447|How shy are you when you meet new people?
+448|Have you ever had a blessing in disguise, what was it?
+449|How fast can you say the alphabet?
+450|What was your favorite movie that was based on a book first?
+451|What is your favorite thing to challenge people to?
+452|Have you ever been or would you ever allow yourself to be hypnotized?
+453|What is something in your life you will never apologize for?
+454|What do you think is totally inappropriate but is commonly seen in today’s society?
+455|Where is your favorite place to take a nap?
+456|Do you have a scar, if so how did you get it?
+457|How have you matured through the years?
+458|Would you rather take a very long train ride or very long plane ride?
+459|Do you have an area of your life that you are never satisfied with?
+460|What do you think should be more regulated that is currently not?
+461|How independent are you?
+462|How much affection do you need to feel happy?
+463|How would you do as a contestant on the reality game show Survivor?
+464|What is your favorite author beginning with the letter R?
+465|Who do you think you should stop spending time with?
+466|Would you ever become a missionary?
+467|Do you believe “it’s a dog eat dog world” or do you have a different opinion?
+468|Do you buy from thrift stores?
+469|What do you think about romance?
+470|What do you think about the vagabond lifestyle?
+471|What 3 things would you leave in a time capsule for people to open in 50 years?
+472|Would you raise your kids the way your parents raised you?
+473|Does time heal all wounds or is that just a saying?
+474|Do you ever watch movies with subtitles?
+475|If you were in a band, what instrument/role would you play?
+476|What is something you’re doing you never thought you would do?
+477|Working What is the weirdest food combination craving you’ve ever had?
+478|Have you ever had to make a big decision without enough information, if so what did you do?
+479|If you were having lunch with the Queen of England, what would you talk to her about?
+480|What reoccurring lie did you always tell your parents or teachers?
+481|Do you still watch cartoons, if so which one/s?
+482|What is the worst thing about being your gender?
+483|Have you ever made a homemade gift for someone, if so what?
+484|hours a week is too much for me. Can you use chopsticks when you eat or have you tried?
+485|What movie had the best special effects?
+486|Have you ever been suspended from work or school, if so for what?
+487|Have you ever cried at a movie?
+488|Were you ever a girl scout/boy scout and if so what was the best thing you learned?
+489|What do you wish had a delivery service that currently doesn’t where you live?
+490|What's the funniest Twitter handle you’ve ever heard?
+491|What is your favorite clothing store?
+492|Do you talk to yourself?
+493|What grooming habit is essential to your daily life?
+494|Out of your 5 senses, which is your strongest?
+495|Would you ever launch an idea on Kickstarter?
+496|Is your life more like the show Friends or Married with Children?
+497|Do you actively show compassion for others, and if so how?
+498|What do you try to avoid at all costs?
+499|What is something you don’t mind paying more money for?
+500|ol2 Have you ever carried a torch for someone?
+501|O13 What has been your greatest sacrifice?
+502|What do you think is more likely; Dracula or a werewolf?
+503|If you had to teach something, what would you teach?
+504|What's the funniest question you ever asked your parents when you were younger?
+505|How good of a tipper are you when going out?
+506|If you were going undercover for the CIA, what would you want your new cover story to be?
+507|Have you ever eaten anything prepared by a celebrity chef?
+508|How modern are you?
+509|Are you a “fanatic” of anything or anyone?
+510|What discovery have you recently made you feel is cutting edge?
+511|Do you think cheerleaders are motivating or distracting at football games?
+512|What was your favorite documentary or biography?
+513|What is your favorite children’s story?
+514|What was the last thing you dressed in costume as?
+515|n27 What is the funniest pet name you’ve ever heard?
+516|Are you much of a thrill seeker?
+517|Do you wake up with a smile?
+518|What is your favorite piece of jewelry?
+519|Have you ever entered a talent contest? What was your act?
+520|B32 Have you ever faked your way through something, what?
+521|How long do you think you'll live?
+522|If your significant other went to jail, would you wait for them to get out?
+523|Have you ever turned into a detective checking up on someone or something?
+524|If you could ever take a street sign or sign from anywhere, what sign do you want?
+525|What’s the longest you’ve gone without speaking to your best friend, why?
+526|If you were famous would you want a statue or a building named after you?
+527|Have you ever saved anyone's life or has anyone ever saved yours?
+528|Are the majority of your friends same sex or opposite sex?
+529|How do you make the most of a bad situation?
+530|What do you call your evening meal? Dinner or supper?
+531|Is there such a thing as a bad challenge in your opinion?
+532|Who do you always have to justify your actions to?
+533|What is the quickest way to your heart?
+534|Who’s someone you'd like to trade places with for a day?
+535|How open-minded are you?
+536|Are you any good at burlap sack races?
+537|What's the meanest thing you've said to someone?
+538|Which would be impossible for you to give up for the rest of your life: soda or coffee?
+539|How ambitious are you?
+540|Do you think opposites attract?
+541|What’s the best thing about your life?
+542|What color looks best on you?
+543|Have you ever walked out on dinner with someone?
+544|Have you ever needed an eye test?
+545|Do you carry anything with you for self-defense when you leave your home?
+546|If you could read minds, whose would you read first?
+547|B59 What weird behavior or habit did you have as a child that you ditched as you got older?
+548|What do you consider both a blessing and a curse?
+549|How do you get into your creative zone and do you have a creative ritual?
+550|If you were entering a baking contest, what recipe would you make?
+551|If you were out at dinner with no cash what would you do or say to get the bill paid?
+552|What is an enemy to our existence or way of life?
+553|Do you think Barbie is a negative role model for young girls?
+554|If you saw a unicorn in the middle if the woods, what would you do?
+555|When you have to study for a test, what is a proven successful method?
+556|What’s a common topic at your dinner table?
+557|Have you ever thought about dating a really good friend?
+558|Is change easy for you?
+559|O71 Who is your favorite dancer?
+560|oi2 Did you do anything special for your 16th birthday, what?
+561|S73 If you wrote your will right now who would be the beneficiary?
+562|What talent were you gifted, that comes natural?
+563|Have you ever been disappointed by something you anticipated to be bigger than life?
+564|If you could be an explorer, what would be your expedition?
+565|What do you love about the internet?
+566|Who was the last person to knock/ring at your door?
+567|Where is your ideal place to raise kids or start a family?
+568|Do you make choices on what's best for you or what’s easiest?
+569|Did you ever sneak out of your house after curfew without your parents knowing?
+570|What topic do you always give your two cents on?
+571|Do you prefer blue or black inked pens?
+572|What gives you wanderlust?
+573|What is your favorite short story?
+574|Do you read other people’s body language and if so does it help?
+575|What is your favorite “take out” place?
+576|Have you ever lied your way out of a bad situation, what?
+577|What do you always lose track of besides time?
+578|What strange thing would you like to happen at your funeral to make people laugh?
+579|What is your favorite pancake or waffle topping?
+580|What is your most favorite decorative piece or artwork you own?
+581|How much money would make you happy?
+582|What famous person’s memoir would you love to read?
+583|Would you rather give your money or time to a charity?
+584|When you die, do you want to be buried or cremated?
+585|Are you a clean or messy person?
+586|You're auctioning yourself off for charity, why would someone pay big dene for you?
+587|Describe 2 funny traits about your dad. When should you reveal a secret that you promised you wouldn’t reveal?
+588|What do you think is the biggest sign of a weakness in a person?
+589|What potential talents do you think you might have if you worked at them?
+590|How could you expand on your creative abilities?
+591|Have you ever owned a goldfish?
+592|Have you ever tried online dating, why/why not?
+593|If your life were What do you love to do for “me time?
+594|” If someone assigned you a random job to start, what’s the worst career for you?
+595|Do you do your utmost for the environment?
+596|Do you say curse words, if so which one do you use the most?
+597|Worst leader in history, in your opinion?
+598|What is your biggest debt right now?
+599|Would you ever consider living in Iceland?
+600|Ifyou had to open up a lemonade stand tomorrow, what would you call your stand?
+601|Do you believe in coincidences?
+602|a commercial, what would your commercial jingle say?
+603|What eats up most of your time that you’d like to change?
+604|What do you feel connected to?
+605|How blunt are you and what is the boldest thing you’ve said to someone?
+606|What thing that you’ve made are you most proud of?
+607|Do you like your significant other’s friends, why or why not?
+608|Have you ever felt like a hamster on a wheel never getting anywhere? Why?
+609|Do you have a chip on your shoulder about something?
+610|What is that one thing your friends or family never let you live down?
+611|What word or phrase do you say too much?
+612|How did your parents meet?
+613|What was something that happened to you as a kid that still scares you today?
+614|If you had to attend a military boot camp, rename it based on your current fitness level. Do you have any subscriptions?
+615|What is your kryptonite?
+616|Do you believe in the validity of |Q tests?
+617|Have you ever been scuba diving?
+618|If you have to be handcuffed to someone for 24 hours, who would it be?
+619|Give your funniest answer to: “why did the chicken cross the road?
+620|” What have you read online recently that inspired you?
+621|Compare your writing style to any published author. Will you still celebrate your birthday the older you get?
+622|What do you have a love/hate relationship with?
+623|Where is your favorite place to meditate?
+624|What do you think is the biggest violation of privacy?
+625|What crime would you like to investigate?
+626|When you were a kid did you ever ask Santa for anything, if so what?
+627|Have you ever been kicked out of anything, if so what?
+628|Who was your first crush?
+629|What inspires you to be a better person?
+630|What is one subscription you don’t want to live without?
+631|Could you ever be a mortician if it paid really well and you needed a job?
+632|Describe war in your opinion in just a few words. How good is your willpower? Typically what do you use it for?
+633|What is the most despicable thing about politics?
+634|How many pairs of shoes do you own?
+635|Have you ever walked out of a cinema before the film was done?
+636|What makes you vulnerable?
+637|A secret you’ve been wanting to share. What is something you’ve gotten a second opinion on?
+638|If you could collaborate on a rap with one rapper, who would it be?
+639|What is the cleverest way you ever asked for someone’s phone number?
+640|What is your favorite smell/scent?
+641|What is your favorite popcorn topping?
+642|What are you really intense with?
+643|What do you make way more complicated than it has to be?
+644|Have you ever ridden a mechanical bull, or would you?
+645|Have you ever been in a submarine?
+646|How do you march to the beat of your own drum?
+647|Which song do you hate the most?
+648|Where do you lack discipline in your life?
+649|What is one thing you do you consider practical?
+650|If you were in charge, what 3 items would you have in the office vending machine?
+651|Do you trust people that don’t look you in the eye?
+652|‘Are you an introvert or extrovert?
+653|Do you have in-laws, if so do you get along with them?
+654|Do you act different around a certain person, if so who?
+655|What does your typical breakfast look like?
+656|Have you ever tried to change anybody, if so who?
+657|Have you ever had a dream you chased only to be let down when you achieved it?
+658|Do you prefer texting or talking on the phone?
+659|How old do you feel?
+660|If you were to get a tattoo tomorrow what would it be?
+661|Do you have any family secrets?
+662|What is your favorite activity or way to workout (even if it’s a small amount)?
+663|Who do you seek most for advice?
+664|Would you work less and do more of the things you enjoy if it meant you had less money?
+665|Do you think street smarts count for anything?
+666|If you saw someone drop a $10 bill, would you keep it or try to return it?
+667|If you could be a host for a day would you host a game show, award show or what?
+668|Would you be open to preserving your body through cryogenics?
+669|Do you like scary movies?
+670|What is your most embarrassing moment in public?
+671|How do you cheer up a friend?
+672|In what way are you neurotic?
+673|Have you ever sucked on a lemon?
+674|What is the last thing you took a picture of?
+675|How are you always or ever evolving, what specific thing do you do?
+676|When you were in school who was your favorite essay or assignment about?
+677|How important is physical fitness to you?
+678|How close are you to your family?
+679|If you broke down on the side of the road could you change your own tire without help?
+680|Who or what has been your best teacher?
+681|Do you support local businesses in your community, if so what’s your favorite?
+682|How sensitive are you?
+683|Do you have a favorite uplifting self-help book that encourages you?
+684|If you were asked to create a column like “Dear Abby” what would you call it?
+685|Have you ever felt trapped, if so when?
+686|Do you like comic books, if so what’s your favorite?
+687|What have you been very lucky at?
+688|Where is your favorite place to take a walk?
+689|What word do you have the hardest time spelling?
+690|Have you ever played Sudoku, and on a scale of 1-10 (10=expert) how good are you?
+691|What’s your most expensive piece of clothing?
+692|What's your favorite saying?
+693|If you started your own podcast what would it be about and what's the title?
+694|How impulsive are you and what are you most impulsive with?
+695|Have you ever overheard someone saying something negative about you? What was it?
+696|Fats) What makes you feel like a kid again?
+697|If you were entering a world like Star Wars would you be a Jedi or Sith?
+698|The biggest jerk you’ve ever met. What is the most serious issue facing the planet right now?
+699|What wild animal deserves our protection?
+700|Is there something in life you’d never give up for anyone?
+701|Is there a reoccurring theme in your life?
+702|What’s the best independent film you’ve ever seen?
+703|What restores your faith in humanity?
+704|Are you afraid of dying, if so how do you cope?
+705|#23 If you were joining the Star Wars cast as a Jedi, what would be your Jedi name?
+706|Are you psychic in any way?
+707|What is your favorite breed of dog?
+708|What is your preferred playing piece in Monopoly?
+709|What was the one most important thing you learned from your parents?
+710|What is the biggest piece of wisdom you think our elders can offer?
+711|Have you ever given someone bad advice? If so what did you say?
+712|Are you a bad loser or a good sport?
+713|What quality or trait do you possess that could make people see you as a warrior?
+714|_ What is one thing people buy that you think is a total waste of money?
+715|What was your last big achievement?
+716|When playing a game of charades, what would be the most fun to act out?
+717|Do you like the “craft” food and drink movement, what specific craft items do you love?
+718|Did you apply to or win any scholarships, if so what kind?
+719|What keeps you balanced in life and work?
+720|If you could steal one thing without consequence what would it be?
+721|Are you reliable?
+722|If you were on death row what would be your last meal?
+723|What can people count on you for?
+724|Are you any good at giving massages?
+725|How many times have you had your heart broken?
+726|If you were going to be a famous artist, who would be your muse?
+727|Do you try to learn something new every day?
+728|What is your favorite party game?
+729|Do you think smiles are contagious and do you smile more than not?
+730|What could someone use to bribe you?
+731|Are you a registered voter and if so do you vote in every election?
+732|What or who do you feel has attempted a “hostile takeover” of your life metaphorically?
+733|What is your idea of relaxing?
+734|Are you financially responsible or do you still have problems managing money?
+735|Have you ever attended a book reading, if so what book?
+736|Do you have an incident from college you wish you could erase?
+737|The biggest misconception. What is your favorite joke?
+738|vo] Where can you find the best view in your city?
+739|What is the longest book you’ve ever read?
+740|What do you hate about the internet?
+741|Do you consider yourself a nature lover?
+742|Describe one undeniable fact about yourself. What's the toughest decision you’ve made this year?
+743|What is your favorite fruit?
+744|If you were going to start your own clothing line, what would you name it?
+745|Are you a gossip?
+746|What is the main thing that influences your decisions?
+747|If you were going to write a children’s book, what would the story be about?
+748|What was the first responsibility your parents gave you as a kid?
+749|What stood out in one of your most memorable dreams?
+750|What would you do if someone proposed to you tomorrow?
+751|What magazine would you like to be on the cover of?
+752|What do you think you’d be good at selling?
+753|What is the biggest high pressure situation you've ever found yourself in?
+754|What is your weirdest trait?
+755|Can you name all 50 state capitals in the U.S.?
+756|If you invented a monster what would you call it and what would it look like?
+757|What’s the most recent self-discovery you uncovered?
+758|What do you like to eat with your sandwich (soup, fries, or something else)?
+759|Would you rather play golf or go fishing?
+760|Do you have a favorite Prince song?
+761|What is your favorite word beginning with the letter X?
+762|What’s the most embarrassing thing your parents did to you as a kid?
+763|Have you ever colored in an adult coloring book, did you like it?
+764|What is one thing college freshmen should be prepared for?
+765|Have you ever been in a newspaper?
+766|What is your favorite trivia game?
+767|Name one thing you could do to become a modern day Robin Hood?
+768|Has anyone ever said “I love you” and you couldn’t say it back?
+769|What was some of the best news you ever received?
+770|Who is the most philanthropic person you know and who do they give to?
+771|Is your bellybutton an innie or outie?
+772|Do you believe in one best friend or just friends?
+773|What vegetable do you hate?
+774|What is the worst pickup line you’ve heard?
+775|If you had to pick one food to eat every day for the rest of your life, what would it be?
+776|Have you ever burned a bridge on purpose and how do you feel about that now?
+777|What law do you think should. be more of a personal choice, instead of a law?
+778|Do you have a favorite YouTube channel, what is it?
+779|The most annoying bill you have to pay?
+780|Your secret obsession. What is the scariest insect you can think of?
+781|What hobby or activity do you think is totally boring that other people enjoy?
+782|What one thing could you easily live without?
+783|Do you think there is life after death?
+784|A memory you think of often. What is one thing if you ever lost it would devastate you?
+785|Do you believe in “don’t let the sun set on your anger,” meaning don’t go to bed angry?
+786|Are you a convincing liar or can people see through you?
+787|What video game do you wish life were more like?
+788|Do you think it’s more important to love or be loved?
+789|What is something children of today are not doing enough of?
+790|What has been the worst decision you’ve made in your life so far?
+791|Coke or Pepsi?
+792|How good are you at fixing things and what specifically are you handy at?
+793|What was the last social faux pas you made?
+794|What do you think there is a “war on” in today’s society?
+795|What celebrity makes you want to scream (in a bad way)?
+796|Do you have an expansive vocabulary?
+797|If you had to create chapters in your diary or journal, name 3 chapters. What do you do when you want to get out of your own head?
+798|What's the funniest movie you've ever seen?
+799|Have you ever been called a troublemaker, if so by who?
+800|What is something in life you really have an appreciation for that most people don’t?
+801|Which was the greatest empire?
+802|Has anyone ever blackmailed you, and how?
+803|Do you give your opinion and feedback on surveys?
+804|Have you ever been in a tug of war? Did you win?
+805|What do you hate the monotony of?
+806|What is your favorite flower?
+807|Do you think a stay at home mom works just as hard as a career woman?
+808|Are you a lover or a fighter?
+809|If you were a stand-up comedian, who do you know would give you the most material?
+810|What or who has made the biggest impression on your life in the last year?
+811|Do you bite your nails?
+812|How do you feel about nepotism?
+813|How much would it cost to buy your love?
+814|How often do you laugh?
+815|What instrument do you know how to play?
+816|Are you good at keeping secrets?
+817|What is something quirky you find attractive in a person?
+818|If you were a wrestler what would your stage name and special move be?
+819|Use one word to describe your confidence level. What’s the best Valentine’s Day gift you’ve ever given/received?
+820|Have you ever had a stuffed toy important to you, if so what kind and what was its name?
+821|Who was your very first celebrity crush on?
+822|Do you think any kind of afterlife exists?
+823|What is your favorite chick flick or romcom movie?
+824|What is one thing you won’t admit to yourself?
+825|What question do you want to ask the universe?
+826|Have you ever been somewhere you thought was haunted, if so where?
+827|What has made you feel completely validated?
+828|Have you ever done something and had no idea why you did it, what was it?
+829|Do you stick to conventional fashion or like to be original?
+830|What appetizer do you have to eat when you dine out?
+831|Out of all the feelings you can feel, what is the best feeling in the world?
+832|There were two nature channel shows on mermaids. Do you think they could exist?
+833|Do you give money to homeless people you see on the street?
+834|What is your least favorite personality trait you like about yourself?
+835|What have you considered interning for?
+836|What is your favorite way to spend a Sunday?
+837|If you could have a child with a famous person, who would it be and for what reason?
+838|Do you think the guy should always pay? What about on the first date?
+839|What novel would you love to be transported into to live out your days?
+840|What do you think about the “tiny house” craze and is it for you?
+841|When you meet a new person do you like to talk about yourself or prefer to let them talk?
+842|What is the coolest nickname you've ever heard for someone?
+843|How good are you at trivia questions and what trivia subject would you excel at?
+844|Would you kill an innocent person if you thought it might mean saving a ee others?
+845|What's your favorite way to waste time?
+846|Do you regret going or not going to college?
+847|If a genie offered you three wishes, what would you wish for (not more wishes)?
+848|What housework/chore do you absolutely refuse to do?
+849|Name something you had a close call with?
+850|If you could live one week with an uncivilized tribe to learn their ways, would you?
+851|What one thing are you worried will never change for you?
+852|How do you resolve conflict?
+853|If you were going to write an essay about your life what would your essay be called?
+854|Do you think there should be a salary cap for actors in movies?
+855|Do you have a favorite furniture designer, if so who?
+856|What is your favorite outfit?
+857|What is your point of no return?
+858|Are you a godparent to a child, if so whose?
+859|What did you think was stupid until you tried it?
+860|Would you ever date someone with a kid or kids?
+861|What is the worst thing you've ever tried?
+862|Who is the most interesting person you’ve ever met?
+863|Would you try to eat vegan for a week or longer?
+864|Would you say you're easy to get along with?
+865|o19 What is the most expensive thing you’ve ever broken?
+866|Have you ever got majorly lost trying to get somewhere?
+867|Could you ever go out with someone just because they’re rich?
+868|Do you know what an Arnold Palmer is and if so do you like it?
+869|What is the fastest way to get you bored?
+870|What is the bane of your existence?
+871|S725) What birthday do you feel is more of a landmark: 16th, 18th or 21st?
+872|What is your favorite nursery rhyme?
+873|o2/ Do you trust your coworkers?
+874|What scares you the most about getting older?
+875|What gives you peace of mind?
+876|Can you tap dance?
+877|g31 Is there any one product that has changed your life in a good way?
+878|B32 Is there any experience you've not had that you regret not having yet?
+879|What is your favorite Broadway show or one you really want to see?
+880|What book do you think should be mandatory for everyone on the planet to read?
+881|What do you think most people take for granted?
+882|What do people take for granted that really bugs you?
+883|B37 Would you say you are a good or bad influence to others?
+884|What is the most beautiful city in the world?
+885|What is your favorite idiom?
+886|If you were going on Shark Tankto pitch an idea, whom would you want to work with?
+887|Have you made an impact on anyone’s life, if so who?
+888|What is your favorite band beginning with the letter Q?
+889|What bad habits do you think kids pick up from their parents?
+890|Do you have any cool party tricks?
+891|What famous person has completely lost your respect?
+892|Have you ever talked in your sleep and if not what would you be afraid to say?
+893|What random act of kindness should be done every day?
+894|Do you spend too much time pleasing others at a detriment to yourself?
+895|Do you always wear identical socks?
+896|Do you have any allergies, specifically to food that are serious?
+897|What is the main thing you’ve always had second thoughts about?
+898|What two celebrities would make the craziest couple you could think of?
+899|Who do you think in general is smarter, men or women?
+900|What is one thing you know about your mom or dad that they don’t know you know?
+901|What are a few things you need to cleanse from your life?
+902|What is the craziest craving you ever had?
+903|How organized are you?
+904|Do you think cigarette smoking should be illegal?
+905|What TV sitcom family (old or new) would you have liked to be a member of?
+906|What was your most creative endeavor?
+907|Have you ever walked out of a restaurant or bar without paying your bill, if so why?
+908|What’s the best thing about being a part of your family?
+909|Have you ever been a big brother or sister to a less fortunate youth, would you?
+910|How do you feel about your family?
+911|When you were a kid did you have any posters on your wall, if so of what?
+912|What is something you’re teased about relentlessly?
+913|What is the biggest city you’ve ever been to?
+914|What do you think the most romantic proposal looks like?
+915|What is your favorite thing to BBQ?
+916|Do desperate times call for desperate measures?
+917|What are you too hard on yourself about?
+918|B72 Would you fight for the one you love or would you just let them go?
+919|Do you prefer movies with or without special effects?
+920|How jealous are you when it comes to your significant other?
+921|If evil-doers invaded your country would you rush to the battle lines or hide?
+922|What is the nicest thing a stranger has ever done for you?
+923|If you were a woman would you propose to a man? If you were a man would you accept it?
+924|Where would you never live?
+925|What would be the best exotic pet?
+926|Is there a food you loved as a kid but hate as an adult?
+927|Have you ever rescued an animal, if so did you keep it or take it to a shelter?
+928|Do you have a favorite news anchor, if so who?
+929|What is your favorite metaphor?
+930|Would you ever set up a nanny cam to spy on someone watching your kids?
+931|How many back up plans do you make for your original plan?
+932|How do you feel about people wearing animal furs and animal skinned shoes?
+933|Would you ever date someone much older or younger than you, and which?
+934|* What do you do to cool down when it’s hot out?
+935|Would you ever allow yourself to be auctioned off for a good cause or charity?
+936|What is the funniest one liner joke you've ever told?
+937|What do most people consider a weakness that you actually find strength in?
+938|Have you done something you worry could come back to haunt you, what?
+939|Should graduating high school be mandatory?
+940|What is the most important thing in your life right now?
+941|$95 What are you hypocritical about?
+942|Do you like racing events like cars, horse or dog and if so what is your favorite?
+943|Do you watch football, if so do you have any special “game day” rituals?
+944|What animal do you think is jaw dropping beautiful?
+945|How often do you self-reflect?
+946|What would you ask King Henry VIII if you could have dinner with him?
+947|Do you like to cuddle?
+948|Have you ever danced in the rain?
+949|Who or what challenges you?
+950|Have you ever hid anything from your significant other that you wanted to tell them?
+951|Would you consider yourself worldly?
+952|What song makes you sad the moment you hear it?
+953|What is the closest thing to your superpower?
+954|What is the scariest thing you’ve ever done?
+955|What is your favorite film beginning with the letter L?
+956|In any of your relationships what was one of the hardest challenges you faced?
+957|Biggest risk you've ever taken. If you were a stranger looking at your life from the outside in, would it inspire you?
+958|What major scientific advancement do you predict will be released in the next 20 years: Do you let other people’s negativity affect you?
+959|What issue has ever divided your family or a specific relationship?
+960|Have you ever shoved things in the closet to make your room look clean?
+961|What type of journalist would you be?
+962|Have you ever starred in an amateur or professional video?
+963|What was the worst way you’ve been dumped or dumped someone else?
+964|What do you daydream about?
+965|£021 Have you ever gotten lost in a maze?
+966|Have you ever sworn at an authority figure?
+967|HU23 Do you think people are basically bad or basically good?
+968|Have you ever shamed anyone and if so what for?
+969|If you wrote an autobiography what would your book be called?
+970|What is one thing you hope to do before you die?
+971|Do you prefer to wash up in the mornings or evenings?
+972|What was a game changer in your life?
+973|Are you a realist or do you like to lose touch with reality sometimes?
+974|What fashion style would you like to bring back?
+975|What is the biggest obstacle you’ve had to overcome?
+976|When you think about the future what one word comes to mind?
+977|Who do you think has the best smile?
+978|What is the most interesting thing you can see out of your nearest window?
+979|Do you have a high level of curiosity, and has it hurt or helped you?
+980|Who is your favorite TV talk show host past or present?
+981|What is one thing you hate about computers?
+982|Have you ever Googled yourself or a family member?
+983|What brand or product do you buy because you feel it’s trustworthy?
+984|If you discovered a new species of dinosaur what would you call it?
+985|How many times a day do you check your Facebook?
+986|Do you think regular (not cable) TV shows has too much inappropriate content?
+987|If you designed your own sushi roll what would be in it and its name?
+988|If you could have any feature from an animal what would you want?
+989|Who have you learned the most from?
+990|Finish this sentence as if it were your life: “It was a dark and stormy night...” If you were a fashion designer, what style of clothing or accessories would you design?
+991|What do you think of non-profit organizations that pay their CEOs using donated funds?
+992|Something you were accused of that you never did. You’ve been given money to purchase a major sports team, what team will you buy?
+993|What’s the grossest thing you’ve ever seen someone do in public?
+994|What is the first thing people usually notice about you?
+995|Do you believe in miracles, have you had one?
+996|The oddest job you ever took to earn a buck?
+997|In past publicized criminal cases, who was “not guilty” that you would have convicted?
+998|What do you love on your burger or veggie burger?
+999|Did you ever fail a subject in school, if so what class?
+1000|What is something constant in your life?
+1001|Have you ever conducted an experiment that went awry, if so what?
+1002|Name your alter ego. Where is somewhere you really want to visit but you worry you won't eat the food?
+1003|What benefit do you think employees should get that most companies don’t offer?
+1004|If you were on the run from law enforcement what country would you flee to?
+1005|What is the biggest challenge kids face today?
+1006|Have you ever taken part in a parade, if so why and what did you do?
+1007|Have you ever made someone cry?
+1008|Can you solve a Rubik’s cube?
+1009|What is the most artistic thing you’ve ever done?
+1010|What would your friends say about you?
+1011|What was the hardest test you’ve ever taken and did you have to take it over?
+1012|What blood type do you have?
+1013|What is your favorite game beginning with the letter N?
+1014|When was the last time you felt lucky?
+1015|Have you ever been bitten or attacked by an animal, if so what and why?
+1016|What movie ending really frustrated you? And how would you change it?
+1017|Have you ever had anything waxed, if so what?
+1018|What is one thing you'll never be associated with?
+1019|What makes someone a bad kisser in your opinion?
+1020|Are you too critical of other people and has it ever effected a relationship?
+1021|If you had unlimited space or room in your home, what would you use it for?
+1022|What keeps you going?
+1023|What topic would you be totally clueless about if it came up in a conversation?
+1024|Do you have a piggy bank?
+1025|What type of people scare you?
+1026|What is your favorite spa service (massage, facial, etc....)?
+1027|How do you handle two-faced people?
+1028|Who would call you their biggest cheerleader?
+1029|Do you have a specific personality trait or something specific that makes you popular?
+1030|If you could be reincarnated as an animal, what animal would you choose?
+1031|Do you think the glass ceiling still exists or has it finally been broken?
+1032|What do you want to do when you retire?
+1033|What is something that intrigues you and scares you at the same time?
+1034|Do you watch any nature programs, if so which ones?
+1035|What is the largest amount of money you've spent in one spree?
+1036|Would you ever pick up a hitchhiker?
+1037|How do you deal with shallow people?
+1038|What was your happiest dream about?
+1039|Who is your favorite superhero?
+1040|What compulsions do you have?
+1041|Can you build a house of cards?
+1042|Do you often have a tune in your head you can’t name?
+1043|Has someone ever been promoted over you who you felt was not qualified for the job?
+1044|What is the definition of a soul to you in a few words?
+1045|If you could go on an adventure tomorrow, what adventure would you choose?
+1046|How do you feel about fracking in a few words?
+1047|Would you rather swim in a pool or the ocean?
+1048|Are you possessive, if so how much?
+1049|What are your top 3 bloggers/blog sites to read?
+1050|What’s the most sensible thing you’ve ever heard someone say?
+1051|Chess or Checkers?
+1052|If you were a villain or criminal mastermind what would be your calling card?
+1053|Are you a good aim with a rubber band?
+1054|What was your parents’ greatest sacrifice?
+1055|Do you think in this day and age investing in the stock market is wise?
+1056|e115 Have you ever been electrocuted?
+1057|What color annoys you when you see it?
+1058|If you were a chicken, why would you cross the road?
+1059|What is/was the best thing about being in a relationship?
+1060|What keeps you optimistic?
+1061|£120 Have you ever turned something valuable someone lost in or kept it?
+1062|What’s one chore or task you love doing?
+1063|If you could create a fantasy land what is one thing it would have in it?
+1064|What tests your patience?
+1065|If you could talk to one species of animal what would it be?
+1066|Are you still close with any of your early childhood friends, and who?
+1067|Do you take the time to listen to what others have to say?
+1068|Li27 What is your most favorite way to receive affection?
+1069|If a waiter spilled a drink on you but it was an accident, would you still tip?
+1070|Li2g What are you allergic to?
+1071|What is one thing you wish you could change about your family?
+1072|Are you a positive person?
+1073|L132 What is your favorite song beginning with the letter |?
+1074|Have you ever read a tabloid, if so which one?
+1075|Have you ever been fired and if so from where?
+1076|Have you ever test driven a car you couldn’t afford, if so what car?
+1077|Have you ever staged an intervention and for what?
+1078|Many people read electronic books. Do you think that takes away from the experience?
+1079|Have you ever invented a fairly unique meal or drink?
+1080|ie Have you ever gotten back into a relationship with an ex, if so did it work out?
+1081|Is external or internal beauty more important to you?
+1082|What is your favorite dessert?
+1083|Are you more of a leader or follower?
+1084|What is harmonious in your life?
+1085|What keeps you busy most days?
+1086|Do you think all is fair in love and war?
+1087|What’s the most radical thing you’ve done appearance wise?
+1088|How do you feel about growing older?
+1089|What is the meaning of life?
+1090|What celebrity's crib would you love to take a tour of?
+1091|How can you live with more intention?
+1092|£151 Do you brood about anything?
+1093|Do you prefer to wear shoes or go barefoot, why?
+1094|What is the most expensive gift you’ve ever bought for someone?
+1095|Have you ever run for an election, if so what was your campaign?
+1096|What makes a person victorious?
+1097|What has been the best decision you’ve made in your life so far?
+1098|P1157 Have you ever been attracted to someone your best friend was dating?
+1099|What causes you deep emotional pain when you think about it?
+1100|What do you consider is the most important piece of furniture in a house?
+1101|What “new beginning” are you most looking forward to?
+1102|If you personalize your car’s license plate, what would the plate say?
+1103|What is your favorite mix of salty and sweet?
+1104|If your parents hated your partner you loved, would you listen to them and break it off?
+1105|Have you ever practiced origami?
+1106|Do you believe in ghosts?
+1107|If you ruled your own country, who would you get to write your national anthem?
+1108|Are you a giver or a receiver?
+1109|Something you always over exaggerate. Best advice you've ever been given?
+1110|Would you ever spend the night on the beach?
+1111|What was your favorite bedtime story as a child?
+1112|Do you have a propensity for anything?
+1113|Have you ever been wheelbarrow racing?
+1114|If you were a going to be a wedding singer, what would your stage name be?
+1115|What is your favorite kind of puzzle?
+1116|Do you believe everyone deserves a second chance?
+1117|L177 What is your favorite cartoon character beginning with the letter W?
+1118|What is the most enjoyable thing your family has done with you?
+1119|Have you ever been alienated, if so from what?
+1120|Something you keep close to your heart. Have you ever built a snowman?
+1121|You're falling through the rabbit hole, what’s on the other side?
+1122|Have you ever felt like you were being stalked and if so how?
+1123|What food do you love but gives you a bad reaction or is too hard for you to eat?
+1124|Have you ever gone bird watching?
+1125|Do prefer to live in the heart of the city or out in the peaceful countryside?
+1126|What do you think is the scariest thing about becoming a parent?
+1127|If you could try out a job for a day just to see if you like it, what job would you choose What one thing could you do a little better every day?
+1128|Have you ever hit rock bottom?
+1129|Who is your biggest supporter?
+1130|If a reality TV show were based around your life what would it be called?
+1131|Are you a hat person?
+1132|Do you like your age?
+1133|What particular field of study were you really interested in, but decided not to pursue’ What industry do you think is most harmful to the planet or environment?
+1134|What do you like on your toast or biscuit?
+1135|Would you allow a foreign exchange student to live in your house?
+1136|Have your parents told you something as an adult they kept from you as a child?
+1137|If you were going to call a family meeting, what topic would it be about?
+1138|Harry Potter or Lord of the Rings, which story is best to you?
+1139|What makes you feel unsafe?
+1140|Do you consider yourself to be high maintenance?
+1141|What do you find ethereal?
+1142|What is the kindest thing you've done for a stranger?
+1143|How many countries have you visited?
+1144|Would you ever let your parents pick out a partner for you?
+1145|What movie or book ending really left you hanging to the point of anger?
+1146|What distracts you the most every day?
+1147|Given the chance would you work from home or do you love working with others?
+1148|Have you ever judged a book by its cover?
+1149|What 3 wishes would you grant the world?
+1150|Have you ever lied to get a promotion or anything else?
+1151|If you had to dedicate the rest of your life to a cause, what would that be?
+1152|What do you think about men who want to be a stay at home dad?
+1153|Can you stand on your hands unassisted?
+1154|Are you being true to yourself?
+1155|i716 Can you easily move forward after a hurt?
+1156|i219 What one trait do you have that will make you a terrible boss?
+1157|What animal do you think should be added to the endangered species list?
+1158|What do you do when you get a “gut” feeling about something?
+1159|What was the last thing to make you feel happy?
+1160|Do you think it’s important for a wife to take her husband's last name?
+1161|What’s your biggest challenge in the mornings?
+1162|What is the next biggest step in your life?
+1163|Have you ever spied on anyone via social media?
+1164|What games do people play that drive you crazy or get on your nerves?
+1165|Do you share a bond with someone, if so who?
+1166|What makes technology useful to you?
+1167|Do you think libraries are still useful?
+1168|How old were you when you last went trick or treating?
+1169|Have you ever played golf?
+1170|Would you rather be a jack-of-all trades or master of one?
+1171|Do you prefer male or female singers’ voices?
+1172|Have you tried something completely unorthodox that was supposed to be healthy?
+1173|Have you ever been in a position of authority?
+1174|Do you celebrate the things you have?
+1175|What or who keeps you grounded?
+1176|Have you ever been sledding?
+1177|In your opinion who was the worst President of the United States?
+1178|Are you familiar with Robert’s Rules of Order and if so do you agree?
+1179|Did anyone in your family have a “home remedy” and what did it cure?
+1180|If you were playing a game of truth or dare, what dare would you be afraid to attempt?
+1181|How good is your balance and could you balance on a tightrope with practice?
+1182|Have you met a real life warrior, if so who?
+1183|What temptation can you not resist?
+1184|When you get stuck on bed rest what do you do to pass time?
+1185|Do you move a lot?
+1186|What is your special song?
+1187|How sociable are you in new group settings?
+1188|What’s your favorite time of the year?
+1189|L252 Who is the best playwright in your opinion?
+1190|What is your favorite way to start your day?
+1191|What is the worst name you've ever called anyone?
+1192|If you had to take superhero sides are you Marvel or DC?
+1193|Do you believe in fate or that a person shapes their own destiny?
+1194|Z5/ When getting ready for a party, what takes you forever?
+1195|Do you still have feelings for an ex that have never gone away?
+1196|Are you ok going out alone or do you prefer to have company?
+1197|What is one thing you’d change about the current city you live in now?
+1198|Have you ever been bobbing for apples?
+1199|What is the longest road trip you’ve ever done in a car so far, where’d you go?
+1200|What have been accused of being irrational about?
+1201|Do you need to write down things to remember them?
+1202|Have you ever sailed a boat?
+1203|Who is the most drama filled person you know, and what do they do?
+1204|Have you ever had a run in with the law and if so what for?
+1205|If ketchup wasn’t available, what would you like to dip your fries in?
+1206|Are you good at owning your mistakes?
+1207|What do you think about the sound of your voice and what do you think you sound like?
+1208|What question are you too embarrassed to ask anyone?
+1209|Bi2z73 s the last book you read, sum it up in one word?
+1210|What is your favorite type of tree?
+1211|What game show do you think you’d win the most money on?
+1212|How would you describe your decorating style in a few simple terms?
+1213|What is your biggest weakness?
+1214|How do you personally feel about gambling of any kind?
+1215|Have you ever given blood?
+1216|i279 What do you usually have to improvise on?
+1217|What monument do you think should not have been erected?
+1218|Have you ever put a part of your life on hold, what part?
+1219|Pick a title of a novel to describe your love life. Do you have a green thumb?
+1220|Who is your favorite comedian?
+1221|Would you ever consider living on an island, why or why not?
+1222|If there were aliens in the universe, what would you say to them?
+1223|Do you believe change is a good thing?
+1224|If a tree falls in the forest and there’s no one around to hear it does it make a sound?
+1225|Name one infamous person you actually like and want to hang out with. Have you ever tossed your own pancake?
+1226|What gift would be awkward to receive from your boss?
+1227|Have you ever walked a tightrope?
+1228|Do you usually say what’s on your mind or do you hold back?
+1229|What is something you just can’t relate to?
+1230|Your biggest “what if?
+1231|” What is a growing concern of yours?
+1232|Has someone ever given you a second chance, if so how?
+1233|What flavor ice cream do you hate?
+1234|What do you think all kindergarten students should learn?
+1235|Do you have a kind of un-special talent you’re really good at?
+1236|What was the most generous act of your life so far?
+1237|Are your expectations of other people realistic or too high?
+1238|#4303 When have you ever really scared yourself?
+1239|If you had to be handcuffed to someone for 24 hours, who would it be?
+1240|When did you first realize that life is short?
+1241|What is your perfect weekend getaway?
+1242|Where are your ancestors from?
+1243|Who was the last person you hand wrote a letter to?
+1244|You've just been invited to tour the White House, what are you most looking forward to?
+1245|Do you ever feel blue and if so what triggers it?
+1246|I3Tl What 3 things would you never do on vacation?
+1247|Do you keep a journal and does it help you?
+1248|t3is Has your ego ever gotten in the way of work or a relationship?
+1249|Would you ever consider adopting a child?
+1250|Who would you want to spend the last day of your life with?
+1251|Have you ever felt discriminated against, if so how?
+1252|What's the longest you’ve ever grown your hair?
+1253|What instance did you not take “no” for an answer?
+1254|i9 Do you like other people buying you clothes?
+1255|Would you rather be hated or forgotten?
+1256|What is usually your first thought when you wake up?
+1257|A322 What is the earliest memory you have of your childhood?
+1258|Has your life ever flashed before your eyes, if so what made it happen?
+1259|Would you rather ask permission or apologize later?
+1260|Do you have any phobias?
+1261|If you had the opportunity to get a message across to a large group, what would it be?
+1262|What is your favorite scent of candle or room spray?
+1263|What is the most important thing you ever forgot?
+1264|Where is the strangest place you've ever fallen asleep?
+1265|Who can you impersonate really well?
+1266|What one skill or trait do you feel is imperative to be successful?
+1267|Ho2 If your local newspaper were running a story on your life, what would the headline say?
+1268|What makes a party boring?
+1269|Would you ever raise your own chickens for fresh eggs?
+1270|——— £235 What keeps you on pins and needles?
+1271|What is your favorite part of the day?
+1272|Do you have a Swiss army knife?
+1273|If you were to enter food-eating contest what would you want the food to be?
+1274|What is one thing you wish you had the money to pay someone to do for you?
+1275|Have you ever been pulled over by a cop, if so what were you doing?
+1276|Is there a role in your life you feel very honored to have?
+1277|In one sentence, how would you describe your relationship with your mother?
+1278|Where and who was your first live concert?
+1279|How would you explain your basic life philosophy?
+1280|How would you describe your attention to detail?
+1281|Do you think laughing at someone else’s misfortune is wrong?
+1282|What was the hardest thing you ever had to make peace with?
+1283|What used to scare you as a child?
+1284|Would you risk your life to save someone, if so who?
+1285|What is the biggest and most elaborate lie you’ve ever told?
+1286|SS] What is something most people get wrong about you when they meet you?
+1287|What opportunity do you wish you would have taken?
+1288|Have you ever gotten food poisoning and if so what food gave it to you?
+1289|What was your first job?
+1290|What is your favorite part of the weekend?
+1291|What is your favorite bedtime story?
+1292|Where have you always wanted to have a birthday party?
+1293|What is something that should be forbidden but is tolerated?
+1294|Have you ever been bungee jumping? If not, do you want to?
+1295|What is your favorite restaurant?
+1296|In your opinion what’s the best thing since sliced bread?
+1297|What’s your favorite website?
+1298|Do you prefer baths or showers?
+1299|What traffic laws or moving violations do you always seem to break?
+1300|Have you ever been on a pogo stick?
+1301|What's the biggest thing you need to improve?
+1302|Are you comfortable learning new things, what was the last new thing you learned?
+1303|What is your favorite mystery series?
+1304|Describe what you want your retirement to feel like in one word?
+1305|What do you and your friends do when you hang out?
+1306|Are you supportive of a friend even if you don’t agree with what they are doing?
+1307|o%2 What is your favorite way to stay in shape?
+1308|/3 Who do you think is the most credible philosopher?
+1309|Are you neat or messy?
+1310|Do you think happiness is a choice?
+1311|What has been your biggest sacrifice?
+1312|What famous celebrity chef would you want to cater your dinner party?
+1313|What is the longest movie you’ve ever watched?
+1314|/9 Do you like to travel?
+1315|What do you think is not fair in today’s society?
+1316|If you decide to get cremated, where would you want your ashes spread?
+1317|Who do you think you inspire?
+1318|If someone asked you to give them a random piece of advice, what would you say?
+1319|If there is hair in your food at a restaurant, what would you say?
+1320|Describe your mood right now using one word. Does looking on the bright side help you?
+1321|What is your first proper memory?
+1322|What do you do if people are nosing into your business?
+1323|Do you believe in taking leaps of faith?
+1324|Who told you the best stories when you were a kid?
+1325|A391 If you were a flower, what type would you be?
+1326|£95 Do you have an unresolved ongoing family issue?
+1327|If you had to create a children’s book about an animal, what would your book be about?
+1328|What sound relaxes you?
+1329|B1395 Who do you think Jack the Ripper was?
+1330|Do you think it’s important for a couple getting married to share the same beliefs?
+1331|What have you ever done out of spite?
+1332|If you ever became a writer, what would be your writer’s pseudonym?
+1333|If you had to describe yourself as a flavor, what would it be?
+1334|What is something too hard for you to imagine?
+1335|Have you ever rescued anyone or anything?
+1336|Do you think medical science is ahead of the times or behind?
+1337|What is something you came close to giving up on?
+1338|Would you rather trade some intelligence for looks or looks for intelligence?
+1339|When do you function at your best?
+1340|What is the first thing you reach for when you need comforting?
+1341|Have you ever called in sick to work to do something more exciting, what was it?
+1342|Have you ever had to rehearse anything, if so what?
+1343|Do you watch any of the singing competitions, if so who is your favorite contestant?
+1344|. What is your favorite food to eat raw?
+1345|If you could invent brand new baby names what would they be?
+1346|What emotion is your least favorite and the one you are not in touch with?
+1347|What celebrity do you think is a positive role model for kids today?
+1348|Which do you like more: a really good book or a great movie?
+1349|If you joined the circus what kind of performer would you be?
+1350|If you participated tomorrow, could you win a spelling bee?
+1351|What should wedding vows be about?
+1352|Where was the last place you traveled to?
+1353|Do you think there is life on other planets?
+1354|Are you a trendsetter?
+1355|Do you believe in destiny, fate or free will?
+1356|If you could have anything named after you, what would you want it to be?
+1357|What horror fiction character scares you the most?
+1358|Do you think there is any merit to following feng shui in your home?
+1359|How would you describe social media with one word or phrase?
+1360|What was the brand of your first ever cell phone?
+1361|What are your 3 favorite internet sites?
+1362|Do you have a favorite pair of blue jeans?
+1363|Describe them. What is standing between you and one of your biggest dreams?
+1364|What profession do you respect?
+1365|Have you ever been the recipient of a practical joke?
+1366|Have you ever ate something you've dropped on the floor, if so what?
+1367|Would you consider being an Uber driver if you needed to make extra money?
+1368|How do you know when you're in love, what is the main sign?
+1369|Have you ever gotten anything autographed, if so by who and what was it?
+1370|Do you prefer Walmart or Target?
+1371|What do you long for?
+1372|If you could be a personal assistant to anyone, who would it be?
+1373|What is the most important thing you can do to improve yourself?
+1374|What makes it hard for you to keep your focus?
+1375|Do you think society has become too PC (politically correct)?
+1376|What tragic love story do you relate to?
+1377|Has your intuition or “gut” served you well?
+1378|What's the longest you’ve ever waited in line for something and what was it?
+1379|Who is your favorite model?
+1380|What have you done that is out of character for you?
+1381|Would you rather get a gift card or a gift that shows the person shopped for you?
+1382|Who is the most visionary person in your life and how do they inspire you?
+1383|How do you handle a betrayal?
+1384|What do you feel strong enough about to protest?
+1385|What’s the biggest blooper you’ve never lived down?
+1386|If you owned a restaurant what kind of food would you want to serve?
+1387|What will we find if we look in the bottom of your closet today?
+1388|What kind of car did you learn how to drive on?
+1389|What is the best thing you have done just because you were told you can’t?
+1390|Have you ever had to go to court or testify and if so what for?
+1391|Are you more worried about doing things right, or doing the right things?
+1392|What is the worst type of case for you to be on a jury where you would not be impartial?
+1393|Do you believe in the term “Mother knows best”?
+1394|Who is your favorite movie action hero?
+1395|What is one thing you can get in your hometown that you can’t get anywhere else?
+1396|How important are looks in someone you're in a relationship with?
+1397|What freedom do you feel is not really free anymore?
+1398|What are you most thankful for?
+1399|Do you have any favorite radio talk shows or talk radio programs that don’t play music?
+1400|What was the last book you read?
+1401|What is your favorite online store?
+1402|What band would you love to tour with and be a roadie for?
+1403|If you were to throw a message in a bottle into the ocean, what would it say?
+1404|Do you have common sense and do you think most people are lacking in it?
+1405|What is your favorite non-alcoholic drink?
+1406|What makes you feel rested and refreshed?
+1407|If you could cast a spell on someone what spell would you cast and on who?
+1408|What 3 songs will always be found at the top of your playlist?
+1409|Do you keep a budget?
+1410|What is the craziest thing you've ever done for someone?
+1411|What is one thing you know about your family history you’re proud of?
+1412|What do you wait for discount sales to buy?
+1413|What is priceless to you?
+1414|What one thing in particular makes you feel good about yourself?
+1415|Do you believe in karma?
+1416|Have you ever been canoeing/kayaking?
+1417|What do you think should require a mental health check before people are allowed to do?
+1418|What do you like to put gravy on?
+1419|How do you feel about thrift shops or flea markets?
+1420|What was the funniest joke you ever heard about?
+1421|Who depends on you the most?
+1422|Do you prefer sporty or academic members of the opposite sex?
+1423|Are you in favor of the death penalty?
+1424|Do you have to experience something to fully understand it?
+1425|Has anyone in your family ever served in the military?
+1426|Do you think you could ever be a firefighter, why/why not?
+1427|Finish the next line in your style: Roses are red, violets are blue... What embarrasses you instantly?
+1428|What do you think there should be stiffer penalties for?
+1429|Do you follow what your friends do with trends or are you your own trendsetter?
+1430|Do you often read your horoscope?
+1431|Do you have any scars?
+1432|Are you more like your mom or your dad?
+1433|What was the worst time you ever put your foot in your mouth and what did you say?
+1434|— Do you think athletes and actors are overpaid?
+1435|If you were ruler of your own country what would you call it and what would be your title?
+1436|Are you a daredevil?
+1437|What current event are you tired of hearing about?
+1438|Have you ever felt like something was missing in your life, if so do you know what it was?
+1439|Do you think you could beat a lie detector test?
+1440|Have you ever received a harsher punishment than you deserved for something you did?
+1441|What song on your playlist gets played the most?
+1442|Have you ever ridden on a train or subway and what did you like about it?
+1443|Did you create a checklist for your ideal spouse, if so what were two things you wanted?
+1444|Have you ever let your mom or significant other fight a battle for you?
+1445|Has one of your biggest fears ever come true?
+1446|Is there anything about the opposite sex you just don’t understand or comprehend?
+1447|What is one old thing in your life you’ve had since your youth, you just can’t throw away?
+1448|Could you ever be someone's bodyguard?
+1449|What common pitfalls do you find yourself dealing with in your work life?
+1450|Do you tend to follow your heart or your head?
+1451|What celebrity or TV show in your opinion set a bad example for youth today?
+1452|L519 How do you feel about jazz music, if you like it who is your favorite?
+1453|Have you ever been diagnosed with something that’s challenged you, if so what?
+1454|S2t What is your favorite precious stone?
+1455|If you had your perfect dream house, what kind of tree/s would you want in your yard?
+1456|Describe your “poker face.” If happiness were the national currency, what kind of work would make you rich?
+1457|: Do you keep up with current events, why or why not?
+1458|Did you ever have a mean nickname that kids called you, one you didn’t like?
+1459|What childhood dreams have you neglected?
+1460|Do you ever compare your life to anyone else’s, if so who?
+1461|What's the craziest thing you’ve done in a car?
+1462|What’s something weird you do before bedtime?
+1463|What do you think should be censored?
+1464|Are you related to anyone famous or historical, if so who?
+1465|Would you ever donate a kidney to anyone, and who?
+1466|How do you encourage yourself when you go through hard times?
+1467|How are you different from most people?
+1468|Have you ever fired a gun?
+1469|What is the main quality you think makes a great parent?
+1470|Do you think people, including yourself live up to their full potential?
+1471|Have you ever stayed up for an entire 24 hours, why?
+1472|What creature do you admire for its ability to adapt?
+1473|Who is a female role model in your life?
+1474|What was your biggest “Ah-ha!” moment or revelation?
+1475|How do you feel about GMOs?
+1476|Do you prefer popcorn or candy with your movie or something else?
+1477|Have you ever asked yourself why you don’t do the things you know you should be doing?
+1478|How often do you reevaluate your life?
+1479|What gives you a Zest for life?
+1480|What do you have trouble seeing clearly in your mind?
+1481|What's your favorite place just to hang out?
+1482|Do you believe in just giving kids an allowance or do you think they should earn it?
+1483|oa | Have you ever made your own orange juice?
+1484|Have you ever been to a farmer’s market, if so what do you love to get?
+1485|If you had to give up one food you really love for the rest of your life, what would you pick?
+1486|Would you rather have endless love or endless money?
+1487|Name a famous person you wouldn't mind for a business partner. Do you have siblings, if not do you want some?
+1488|What is your favorite name for a girl child?
+1489|Are you a good judge of character?
+1490|In a few short words describe what the word commitment means to you in dating. What is your favorite girls’ name beginning with the letter E?
+1491|Have you ever come to a crossroads in your life and what were the two paths?
+1492|What three things do you think of most each day?
+1493|Would you ever sign a prenuptial agreement?
+1494|Would you travel to space if possible?
+1495|What does creativity mean to you? Is it free flowing or does it involve your heart and soul?
+1496|Where is one place you’d never be seen?
+1497|What or who do you sympathize with?
+1498|Would you feel any different if you suddenly found out you were adopted?
+1499|What was the best present you received?
+1500|If you were prime minister/ruler of the world what laws would you make?
+1501|Have you ever been stood up for a date?
+1502|Have you ever helped someone through a breakup and if so how did you help?
+1503|Do you like ice in your drinks?
+1504|How are your manners, do you say please and thank you?
+1505|What is one of your favorite photos and what is the sentiment attached?
+1506|How do you show hospitality when entertaining guests?
+1507|What was your worst date ever?
+1508|What is one good way to grab your attention?
+1509|L579 Do you believe in kissing on the first date?
+1510|Have you ever gone back to a place that gave you horrible service, if so why?
+1511|What crazy thing do you do when you think no one is looking?
+1512|How many slices of pizza can you eat in one sitting?
+1513|se3 The quickest way to make you crazy is... Would you rather learn fencing or archery?
+1514|What singer’s voice gives you chills, in a good way?
+1515|Have you ever made a ball of twine or rubber bands?
+1516|Have you ever self-sabotaged, how?
+1517|If you were going to become a doctor, what skill or trait would serve you well?
+1518|Do you eat fast food, if so what’s your favorite?
+1519|At what age in your life did you learn the most?
+1520|Do you goals and dreams energize you or exhaust you?
+1521|Are you usually on time for things or are you habitually late?
+1522|Do you have any hidden talents that would be considered strange?
+1523|What's your favorite Saturday morning cartoon?
+1524|Are you involved in your local community?
+1525|Do you think it’s more important to know CPR or self-defense?
+1526|o7 Have you ever witnessed a crime in progress, what kind of crime?
+1527|Would you choose a shorter life and be super rich or a longer life somewhat poor?
+1528|What instantly makes you not like another person?
+1529|Someone you want to walk a mile in your shoes. Who is your ICE (in case of emergency) saved in your phone?
+1530|If you could bring one famous person back from the dead, who would you pick?
+1531|What celebrity man do you find ruggedly handsome?
+1532|What do you think is the most dangerous profession in the whole world?
+1533|What is something that always cheers you up?
+1534|Does the term “settle down” scare you or give you comfort?
+1535|Have you ever tried to get someone fired, if so why?
+1536|How do you handle panhandlers?
+1537|How tall is the tallest person you know?
+1538|What is something you continuously procrastinate with?
+1539|What's your favorite sport?
+1540|What do you need more of?
+1541|What upcoming life event are you excited about?
+1542|What do you have a hard time visualizing?
+1543|Do you prefer to live somewhere that has all four seasons of the weather?
+1544|Do you think the grass is greener on the other side, or where you water it?
+1545|What is one thing you’ll never do in public?
+1546|Do you think the Zombie Apocalypse could be real or is total make-believe?
+1547|Are you scared of spiders?
+1548|What dance or dance move have you mastered?
+1549|Would you prefer to ride on a motorcycle or in a helicopter?
+1550|Are you genuinely happy for other people’s (family or friends) success?
+1551|What is the best thing to happen to you this year?
+1552|What memory from your school days still troubles you?
+1553|If you could do one thing for someone and there were no limitations, what would it be?
+1554|What's on your mind these days?
+1555|What is your favorite thing to eat for breakfast that is not considered breakfast?
+1556|What would you do differently if you Knew nobody would judge you?
+1557|How are you still similar to your younger self?
+1558|What historical figure would you love to see in 21st century life?
+1559|What or who brings your wild side to life?
+1560|What is something that is possible today which 20 years ago would seem impossible?
+1561|Do you give money to street performers?
+1562|On a hot summer day what cools you off?
+1563|What question are you always asked that offends or upsets you?
+1564|If you were captain of a ship, what would you call it?
+1565|What is a responsibility you have that you don’t want?
+1566|What is something you want people to remember about you?
+1567|What is your vision for you and your family’s future?
+1568|Do you stay in your comfort zone most times or do you constantly push boundaries?
+1569|What is your most used phrase?
+1570|Do you allow yourself enough spare time to do things you love, if not why?
+1571|Do you think secret clubs exist and if so what kind of club/s do you think there are?
+1572|Do you think prisoners in jail Should work so they can earn money for their release?
+1573|What is the most unusual thing you’ve ever eaten?
+1574|What actor or actress would you want to play you in a movie of your life?
+1575|Are you the kind of friend you’d want as a friend?
+1576|Have you ever tried archery?
+1577|If you were a world famous art or jewel thief, what would be your next heist?
+1578|What is something nice a neighbor has done for you?
+1579|What gives you butterflies in your stomach?
+1580|Who can you count on to tell you the truth when you need to hear it?
+1581|What is something you fell in love with instantly, not a person?
+1582|Have you ever used the yellow pages?
+1583|Do you have any nervous habits?
+1584|Who would win in a fight? Chuck Norris or Jack Bauer?
+1585|Have you ever missed a good thing because you were focused on something else?
+1586|Are you an over achiever or perfectionist?
+1587|What does your “happy dance” look like?
+1588|What makes you cry every time you think about it?
+1589|Do you enjoy camping and if so where is your dream spot?
+1590|Would you rather be the hero in a movie or the bad guy?
+1591|How well do you handle yourself in formal settings?
+1592|If you or your partner were pregnant, where would be the worst place to go into labor?
+1593|Do you think they should continue to print books or go completely digital?
+1594|What is your favorite love song?
+1595|Do you think what a person tells a priest should be confidential, even if it’s a crime?
+1596|What is your favorite mythical creature beginning with the letter U?
+1597|How many concerts have you attended in your life so far and which was the best?
+1598|What do you feel should be mandatory for seriously wealthy people?
+1599|What is one thing that doesn’t add value to your life but you still do it?
+1600|What still amazes you?
+1601|What's something new you recently learned about yourself?
+1602|What company or brand has the funniest commercials?
+1603|Do you still listen to local stations on the radio or only streaming/playlist music?
+1604|Could you tutor anyone in a subject?
+1605|What moment from your life would make a good love song?
+1606|What drains your energy really fast?
+1607|What is a question you hate to ask?
+1608|What 3 things will always happen in a typical day in your life?
+1609|What was the most predictable moment of your life?
+1610|What do you consider unforgivable?
+1611|Have you ever attended an art opening or gallery opening, if so for who?
+1612|What is the most bizarre thing you’ve ever Googled?
+1613|What do you believe is the deadliest sin?
+1614|Have you ever used money to influence anyone?
+1615|What animal do you think is closest in intelligence to a human?
+1616|Is there anything that you have told yourself is “off limits,” if so what?
+1617|What's the most thought provoking statement or question you've ever heard?
+1618|Who makes you laugh without even trying?
+1619|What do you think is the most harmful thing a person can do to their self?
+1620|Are you easily offended?
+1621|What is the most outside the box idea you ever had?
+1622|Do you prefer to buy anything secondhand?
+1623|What would you do with an extra hour in a day?
+1624|What is something you love that is vintage?
+1625|Name a fable that you can relate to?
+1626|What news or media outlet do you trust?
+1627|What was the last song you danced to?
+1628|What is something people do you feel is the equivalent of playing Russian roulette?
+1629|If you were a boss of many, would you want them to fear you or love you?
+1630|Are you more of a homebody or a person about town?
+1631|Do you like Saturday Night Live and if so who would you love to see as a new host?
+1632|Your office or church is having a potluck dinner, what will you bring?
+1633|Do you have money saved for a rainy day?
+1634|What do you do when you feel the pressure of something is too much?
+1635|What is the main thing you and your bestie have in common?
+1636|What if any unusual objects have you swallowed?
+1637|What do you think of CNN?
+1638|If you could get away with murder, who would you kill?
+1639|Be YI At this particular moment whom do you miss most right now?
+1640|Efl2 What would you compare your imagination to (one word)?
+1641|What do you think would be one of the best steps we could take to end world poverty?
+1642|Would you ever live in a treehouse?
+1643|gles) What makes you nervous?
+1644|What wild animal scares you?
+1645|Do you try to protect your reputation or does that not matter to you?
+1646|What occasion do you pig out on food?
+1647|£/19 On a scale of 1-10 how polite would you say you are?
+1648|If you were comfortably rich would you work hard for more or rest on your laurels?
+1649|Do you believe environmental surroundings play a role in future success?
+1650|L722 Would you ever start a celebrity fan club and if so for who?
+1651|/23 Have you ever had a “this can’t be happening” moment and what was it?
+1652|What faux pas do you find socially unacceptable?
+1653|Where is the best place to meet new people if you’re wanting to date?
+1654|What is your favorite sport beginning with the letter S?
+1655|How do you feel about buying a home?
+1656|What TV show/s have you binge watched?
+1657|Do you think most jurors can be impartial when presiding over a celebrity's trial?
+1658|What’s harder today than it was yesterday?
+1659|What was your worst brain fart moment ever?
+1660|What was your blessing in disguise?
+1661|What keeps you interested in your goals or dreams?
+1662|What do you consider to be irresponsible?
+1663|If you achieved all your life’s goals, how would you feel?
+1664|What do you think is your greatest contribution to society?
+1665|Do you think beauty pageants are degrading to women or harmless?
+1666|What words do you always struggle to spell correctly?
+1667|Would you rather be a news anchor, weather man/woman or an on location reporter?
+1668|Have you ever taken a horse drawn carriage ride, and would you? Where?
+1669|What was the topic of the worst argument you've ever had?
+1670|Do you vote in every election?
+1671|Do you think there is always something to be thankful for?
+1672|How do you feel about the statement, “Home is where the heart is.” What is one thing you thought existed but doesn’t?
+1673|What creative source or outlet do you often visit to get fresh ideas or renew your creativity?
+1674|What do you need to learn to make time for?
+1675|What are your bad habits?
+1676|What’s the biggest personal change you’ve ever made?
+1677|What is your favorite animal beginning with the letter A?
+1678|If you could star in any play you choose what iatacist would you want to portray?
+1679|Are you a left brainer or a right brainer?
+1680|Something you want to forget. How many Serious relationships have you had?
+1681|If you were musically inclined whom would you want to have a private jam session with?
+1682|Have you ever left words unspoken that you later regretted?
+1683|What's the most thoughtful thing you’ve ever seen done for anyone or yourself?
+1684|Is your dad an embarrassing dancer?
+1685|L759 Can you believe in something without evidence?
+1686|What antiquated invention do you still use?
+1687|How do you feel about guys wearing pink?
+1688|/62 What do consider yourself an expert at?
+1689|What is the worst book you ever read?
+1690|Do you like braided hair or dreadlocks?
+1691|Did your childhood shape you into who you are today?
+1692|What is your favorite thing about nature?
+1693|Do you think you're living your life to the fullest?
+1694|What is your solid foundation?
+1695|What trap do you keep falling victim to?
+1696|How are you at karaoke?
+1697|Do you know the meaning of life?
+1698|What would be your dream car?
+1699|Have you ever had a roommate, if so what did you hate about it?
+1700|\s there something you’ve tried to rectify but couldn't, if so what?
+1701|Who do you feel is your kindred spirit?
+1702|Do you appreciate and learn from criticism?
+1703|Did you have a favorite teacher or a teacher who made a big impact on your life?
+1704|Do you feel robbed in any area of your life, if so where and why do you feel this way?
+1705|Where is your favorite place to get a massage?
+1706|If the world had an apocalypse, could you hunt for your own food?
+1707|What's your favorite thing to “add” to your soda or cola, cherries or something else?
+1708|Do you think some people just want to be saved or rescued, why?
+1709|Have you ever slept with a nightlight, if so do you still use it?
+1710|What is your favorite item of clothing beginning with the letter B?
+1711|Who and where was your most memorable kiss?
+1712|What does your communication style say about you?
+1713|sey) What do you consider to be a feast?
+1714|Do you still play with toys? If so what toy have you bought as an adult?
+1715|If you had to bury treasure today, where would you hide it?
+1716|Have you ever accidentally texted the wrong person and how did it turn out?
+1717|What's your favorite pizza topping?
+1718|What 3 musicians/singers do you feel contributed the most to music?
+1719|If you could replace one body part with a bionic replacement which would you choose?
+1720|Does any particular song play in your head when you walk?
+1721|/95 Do you like classical music, if so do you have a favorite composer?
+1722|Are you a creature of habit, how?
+1723|Have you ever been approached by someone familiar yet you couldn’t remember them?
+1724|Do you consider yourself above average, average or below average?
+1725|¢8 What do you think would be the most boring job in the world for you?
+1726|What was something you dreaded doing that you ended up loving?
+1727|Do you snore?
+1728|Have you or your parents been involved in any political rallies, events or protests?
+1729|Have you ever built an igloo?
+1730|How do you feel se people hunting big game animals like lions and elephants?
+1731|What is best learning as you go?
+1732|Do you currently have a blog, if so what’s it about?
+1733|Do you honor your commitments?
+1734|What is your favorite parody?
+1735|Have you ever had a pen pal and if so where did they live?
+1736|What's the fanciest place you’ve ever dined at?
+1737|What aroma or smell makes you feel alive?
+1738|Do you see things in black and white or do you think there is a gray area in certain cases?
+1739|Have you ever hurt someone on purpose, If so why?
+1740|What good habits do you want to introduce into your daily routine?
+1741|Do you subscribe to the mentality “if it sounds too good to be true, then it probably is?
+1742|” Are you a planner or spontaneous?
+1743|What is the biggest compromise you've os in your life?
+1744|What technology advancement is overrated?
+1745|Do you know any magic tricks?
+1746|If you were going to take up painting as a hobby, what is the first thing you’d try to paint?
+1747|Do you think artists should censor their work so they don’t offend anyone?
+1748|What is the first thing you notice about other people?
+1749|What is the best thing about being your gender?
+1750|What do you feel people complain too much about these days?
+1751|What is the meanest prank you've pulled on someone or had pulled on you?
+1752|If you swapped genders for a day how would you spend it?
+1753|What's the most valuable thing you own?
+1754|Have you ever built anything, if so what?
+1755|Do you believe in spanking as a form of discipline or never?
+1756|Who do you think is the best Olympian ever?
+1757|What is one major political topic that you are undecided about?
+1758|If you could instill one piece of advice in a baby’s mind, what advice would you give?
+1759|When you wake up in the morning what is your number 1 priority?
+1760|Have you ever broken someone's heart?
+1761|Do you eat after other people?
+1762|There is Martin Luther King Jr. Day, etc. what historical figure should get a holiday?
+1763|Why do you think bears hibernate?
+1764|Do you prefer digital or rotary/analogue clocks?
+1765|Does your family have a secret recipe and if so what’s it for?
+1766|What gives you chills every time?
+1767|Beyond the titles that others have given you, who are you?
+1768|What is your favorite luxury car or sports car?
+1769|What is the rudest thing a person can do to another person in your opinion?
+1770|What TV show really annoys you?
+1771|What are most people afraid of that doesn’t scare you?
+1772|What's the main thing on your bucket list?
+1773|Do you prefer a natural approach to healing or do you think modern drugs work best?
+1774|What is the meaning of peace to you?
+1775|Have you ever slipped on a banana peel?
+1776|What type of contest do you think it would be fun to judge?
+1777|What is your opinion of modern medicine?
+1778|What do you think makes a good party host?
+1779|In one word sum up Society today. What do you do when you feel like you’re stuck in rut?
+1780|What drains your energy?
+1781|If you had to design a playground for adults, what is one thing you’d put on it?
+1782|If your significant other wanted to take a vacation without you, what would you say or do?
+1783|Are you attracted to intelligence or does it matter?
+1784|Would you ever eat something alive or gross for money?
+1785|If you were the opposite sex for one day, what is one thing you'd do?
+1786|What is taboo for you?
+1787|If you could play God for a day, what’s the first thing you’d do?
+1788|What song would you say best sums you up?
+1789|Who was better, The Beatles or Elvis Presley?
+1790|When you make a decision do you stick to it or do you go back and forth?
+1791|Do you feel where you’re living now is the best fit for you?
+1792|Which one of your friends do you think is the nicest?
+1793|What is one way you’ve tried to conquer your fears?
+1794|Where is the most magical place on earth in your opinion?
+1795|Finish this sentence: If all else fails... Would you ever consider going back to school once you're over 50?
+1796|What can someone learn from a baby boomer?
+1797|Do you like stargazing?
+1798|What do you take too seriously?
+1799|Do you hold any special licenses or titles, if so which?
+1800|Do you have any enemies?
+1801|Do you think you have the capacity to learn how to fly a plane?
+1802|What was the hardest change in your life you ever had to go through?
+1803|Is there anything you wished would come back into fashion?
+1804|If given your own show in Las Vegas what would you do?
+1805|What specific thing makes you happy that would not make most people happy?
+1806|How do you prefer your potatoes: baked, mashed, fries, scalloped, etc.?
+1807|What do you feel connected to spiritually?
+1808|What would the logo for your life look like?
+1809|What do you do when you're stuck in traffic?
+1810|Have you found the purpose of your life?
+1811|What one trait do you have that will make you a great boss?
+1812|Do you hoard anything, if so what?
+1813|What is the cleverest phrase you know?
+1814|Can you impersonate anyone famous?
+1815|Have you ever stood up for anyone?
+1816|What do you think is worse, failing or never trying?
+1817|How high can you jump?
+1818|What book have you read that made you really think about life?
+1819|If they were going to name a street sign after you, what would you want the name to be?
+1820|What's the most creative excuse to get out of doing something you didn’t want to?
+1821|If you became a writer what would you want to write?
+1822|Do you wear sunglasses indoors to look cool or stylish?
+1823|Which fictional married couple from TV or cartoons best fits your parents’ marriage?
+1824|What would you consider a challenge for yourself that may be rewarding in the long run?
+1825|Have you ever stiffed a waiter/waitress for bad service or because you were being cheap?
+1826|Do you think society puts too big an emphasis on physical appearance?
+1827|Can you do 10 revolutions of a hula-hoop?
+1828|Do you get sucked into the problems of your family, and how do you wiggle out of them?
+1829|Can you make any animal’s sounds, if so which one can you nail?
+1830|What is one thing you've really wanted lately but haven’t been able to get?
+1831|What characteristics do you most respect in the opposite sex?
+1832|Have you ever had to give someone devastating news, what was it about?
+1833|Have you read anything by Agatha Christie, if so what book was your favorite?
+1834|What is the most expensive thing you’ve ever lost?
+1835|io 14 What is your favorite thing to do at the beach?
+1836|If you were going to be invisible for a day, what would you do?
+1837|What card game or game in general would you love to learn how to play?
+1838|What is one of your favorite family traditions?
+1839|How fast can you run?
+1840|What seasonal food item do you love?
+1841|Do you think after a certain age people should not be allowed to drive?
+1842|If humans came with a warning label, what would yours say?
+1843|What do you love most about summer?
+1844|What do you consider is the most important appliance in a house?
+1845|Do you prefer cats or dogs?
+1846|What’s your favorite aisle in the supermarket?
+1847|Have you ever played Apples to Apples, if so what’s the funniest answer you've heard?
+1848|What is the most useless talent you have?
+1849|#2925 Is there a new unreleased smartphone or electronic device you're excited to try?
+1850|Do you think there will ever be a cure for cancer?
+1851|Would you ever strike if you felt your employer wasn’t treating you fairly?
+1852|If you got into trouble and had to do community service, what would be the worst type?
+1853|Do you play “brain games” that help exercise and strengthen your brain, if so what game?
+1854|When was the last time you tried something new and what was it?
+1855|Who can you be yourself around?
+1856|Do you think parenting classes should be mandatory for all parents?
+1857|What opinion do you have which would be very unpopular in the court of public opinion?
+1858|If you were in the hospital who are the two people you’d want to be by your side?
+1859|Would you ever consider writing to someone in jail as a pen pal?
+1860|Do you have a festival or an event you look forward to each year that’s not a holiday?
+1861|Do you lick the yogurt or dessert lid?
+1862|What movie director do you find completely disturbing?
+1863|If you made a panic room, what would be some of the things found in there?
+1864|Will you dye your hair if it starts turning gray?
+1865|What is your favorite salty snack?
+1866|Do you know how to ride a bike?
+1867|Have you ever been in or had a food fight?
+1868|Have you ever used someone and if so what for?
+1869|Do you have a real life guardian angel, if so who is it?
+1870|Have you ever been arrested, if so for what?
+1871|Describe your sense of humor in one word. If you did ever have plastic surgery what procedure would you do?
+1872|Have you ever had a prayer answered?
+1873|Who has “society” deemed a hero that you feel isn’t?
+1874|What is your favorite brand of blue jeans?
+1875|If your office had a show-n-tell for adults what thing would you be proud to display?
+1876|What is your favorite type of casserole?
+1877|What makes you keep your distance from someone or something?
+1878|Do you watch any cooking shows, if so which ones?
+1879|In what way are you too hard on yourself?
+1880|If you wanted to live off the radar where would you live?
+1881|If you could read one person’s mind, who would it be?
+1882|£959 Can you do an impersonation of anyone?
+1883|What was the most special handmade gift someone gave you?
+1884|Did you ever have any pretend or imaginary friends?
+1885|What are you a casual observer of?
+1886|Do you correct people’s mistakes?
+1887|What technology are you excited about coming out?
+1888|Have you ever reconsidered a major decision you’ve ever made, if so what?
+1889|Did you play hide and seek as a kid, if so where was your best hiding place?
+1890|Have you ever slapped someone?
+1891|What is your favorite television station?
+1892|What is a hobby you really want to try but worry you won't be good at?
+1893|What is your favorite condiment?
+1894|When did you last go to the beach?
+1895|Have you ever been admitted to hospital?
+1896|If you didn’t want to serve jury duty, what’s the most creative excuse you’d give?
+1897|Do you have a “type” that you look for when dating a person?
+1898|What is your favorite food beginning with the letter P?
+1899|What's the most shocking moment of your life?
+1900|iyVier! What do you do when you’re with someone and there is awkward silence?
+1901|UogS How old were you when you realized you had a gift and how did you express it?
+1902|What TV show do you always watch re-runs of?
+1903|If you could change one facial feature, what would it be?
+1904|Do you believe in fairies?
+1905|Your potential new boss says buy me a gift with the budget of $20.00. What will you buy?
+1906|Who is the protagonist in your life?
+1907|How are you your own worst enemy?
+1908|What promise have you broken?
+1909|Do you blame someone or something for the way your life is turning out?
+1910|How do you feel about photography?
+1911|If you lived in a tower would you want a doorman or do you think it’s unnecessary, why?
+1912|What band do you find timeless?
+1913|If you were a double agent, what would be your code name?
+1914|What is the scariest movie you've ever seen?
+1915|i393 If you were famous who would you be excited to get interviewed by?
+1916|What was the last thing to make you feel angry?
+1917|What do people pick on you about?
+1918|Have you ever rehearsed anything?
+1919|If you were elected Mayor of your current city, what is the first thing you'd do?
+1920|Does death scare you?
+1921|Have you ever dieted, if so what diet did you try?
+1922|If you had a year off of responsibilities, what would you want to do?
+1923|When you're feeling sick, what makes you feel better?
+1924|Have you ever gotten a warning about someone or something and ignored it, what was it?
+1925|If you could have a themed birthday party, what would your theme be?
+1926|What makes you stand out in a crowd?
+1927|How did you meet the love of your life?
+1928|What makes someone a good kisser in your opinion?
+1929|What lesson to this day have you still not learned?
+1930|What do you think is a good job for teenager just starting to learn responsibility?
+1931|What’s the oldest thing you own?
+1932|What historical figure do you admire for devoting their life to doing good work?
+1933|Do you own any inflatable furniture?
+1934|What movie did you love but could only watch once?
+1935|If you got lost in the woods what would you do?
+1936|Do you excel in what you do currently?
+1937|What do you think came first, the chicken or the egg?
+1938|Could you ever be a living organ donor?
+1939|Would you swim with sharks?
+1940|What would be your perfect day?
+1941|How do you feel about the kind of work you’re doing right now?
+1942|Do you like photography or videography better?
+1943|What would you do if you saw someone getting bullied?
+1944|Do you have a favorite number? Any particular reason why you like that number?
+1945|What organization or cause would you volunteer for?
+1946|What is your favorite trip down memory lane?
+1947|What is one thing you’d never be caught wearing?
+1948|What would be the moral of your story?
+1949|What has been the biggest blindside in your life thus far?
+1950|What does your style say about you?
+1951|Which form of public transport do you prefer?
+1952|Elementary through high school, what grade was the hardest for you?
+1953|Do you always do the right thing?
+1954|Do you think there will ever be a more sustainable substitute for gasoline? If so, what?
+1955|Have you ever lost your faith in humanity, if so what caused it?
+1956|If you were a geometric shape which would you be?
+1957|What do you keep on your desk or workspace area that boosts your mood?
+1958|What's in your perfect trail mix?
+1959|What is one thing you think every human being should learn how to do?
+1960|What non-profit organization would benefit from your skillset?
+1961|What always puts a smile on your face?
+1962|Do you prefer sunrises or sunsets?
+1963|What do you think was the ugliest car model ever created?
+1964|What would be the coolest design for a birthday cake?
+1965|How do you feel about plastic surgery?
+1966|What is the most outrageous question you’ve ever been asked by anyone?
+1967|Do you think chivalry is dead...should it be?
+1968|What food item do you no longer allow yourself to eat?
+1969|What makes you feel unstoppable?
+1970|Do you think it’s better to be an only child or have siblings?
+1971|How good are you at giving directions?
+1972|What do you doubt more than anything?
+1973|What is the craziest thing you'd do in a limo?
+1974|What makes you proud?
+1975|What are two funny traits about your mom you can describe?
+1976|Have you ever won anything, if so what?
+1977|Do you root for the underdogs, if so who is your favorite underdog from literature?
+1978|If you lost everything you worked for tomorrow, what's the first step in starting over?
+1979|Something you believe in that others think is not real. What social media platform are you most active on?
+1980|What's the simplest way you have fun?
+1981|Do you think two people that don’t speak the same language could be in a relationship?
+1982|Does the sight of blood make you queasy?
+1983|What is a promise you know you'll never break?
+1984|Do you think you need to slow down and enjoy life more?
+1985|How do you cope with loss or death?
+1986|What book from your childhood book would you want to read to your children?
+1987|What moment from your life would you love to live over and over?
+1988|What news story are you tired of hearing about?
+1989|How did you meet your significant other (if single, your last one)?
+1990|Who made the worst first impression on you but then later became your friend?
+1991|Have you ever slept outdoors?
+1992|How do you handle negative influences in your life?
+1993|If you were going to speak to a group of graduating teenagers, what would be the topic?
+1994|What insulting term or word do people use very cavalier today?
+1995|What is your favorite personality trait you like about yourself?
+1996|Have you ever been caught in a compromising position? Even despite a valid explanation?
+1997|Do you know how to use a compass, and how well?
+1998|Do you like hot or cold food better?
+1999|Do you jog or walk regularly, if so where is your favorite place to go for a run?
+2000|Do you know how to use any weapons, if so which ones?
+2001|What is your favorite movie quote?
+2002|Do you think science is cool or creepy?
+2003|When you look into the mirror, what’s the first word that comes to mind?
+2004|What is the most beneficial Chinese proverb?
+2005|Who is the one person you hug that you don’t want to let go?
+2006|When you were in grade school did you bring your lunch or buy it from the school?
+2007|In a disagreement, do you think it’s better to be right or peaceful?
+2008|Is it better to give than receive in your opinion or are you the opposite?
+2009|Do you have a lawyer?
+2010|Are you the kind of person to step in and try to break up a fight?
+2011|If you had to take a couples class, what kind of class would be fun to take with your boo?
+2012|What's the tallest building you’ve ever been up?
+2013|What is one thing you wish you knew about your grandparents?
+2014|What is your “go-to” comfort food?
+2015|Worst thing you’ve eaten at a dinner party?
+2016|Do you think money is the root of all evil?
+2017|What do you hope for?
+2018|Who do you hope to forge a relationship with business or otherwise in the future?
+2019|What’s the most unusual conversation you’ve ever had?
+2020|Can you do any fake accents, if so which one?
+2021|What home design trend do you love?
+2022|What do you feel very protective of?
+2023|Have you ever loved two people at one time and were conflicted about whom to choose?
+2024|What do you compartmentalize in your life?
+2025|What is your most favorite random fact?
+2026|Who Is the strangest person you’ve ever met?
+2027|Are you a drama king or queen?
+2028|Have you ever been in a fight?
+2029|What do you dislike most about the current city you live in?
+2030|ill Do you let your conscience guide you?
+2031|Have you ever wielded a sword?
+2032|e113 When have you answered someone's cry for help?
+2033|Do you often help people when they ask or does there have to be something in it for you?
+2034|What is the most unusual name you've ever heard of?
+2035|Do you think you could write a song, if so what would it be about?
+2036|Do you put up a boundary on any area of your life to keep people out?
+2037|If you had a chance to marry royalty would you, even if you weren't in love?
+2038|ZUL9 Who do you feel like you have the strongest unspoken bond with?
+2039|Have you ever blackmailed someone, if so with what?
+2040|What is some of the most important work being researched on our planet in your opinion Pie2 Have you ever won a giant sized toy from a fair?
+2041|Have you ever been caught in a love triangle, if so with who?
+2042|Do you know the valedictorian of your high school class and where are they now?
+2043|DW, What is your most used word?
+2044|Do you prefer flowers or plants or both?
+2045|/ Do you like cheese, if so what is your favorite kind?
+2046|Do you think there should be special laws for the paparazzi?
+2047|Are you introverted or extroverted?
+2048|Do you think some people in certain situations might be more valuable than others?
+2049|What is the trait you most deplore in others?
+2050|What brings out your silly side?
+2051|Do you trust things you read online, if so what is your most reliable source?
+2052|Do you do what you say you're going to do?
+2053|What would you hire a private detective for?
+2054|What is childish but you still do it anyway?
+2055|Eloy, What is one thing you’d recommend people not try or do?
+2056|Whom do you secretly envy?
+2057|l39 If you found a purse with $100 on the floor, would you turn it in?
+2058|Do you have a favorite figurine or action figure, if so who is it of?
+2059|Do you buy recycled products and goods and how do you feel about it?
+2060|What villain from history do you think was misunderstood?
+2061|Have you ever gone on a sightseeing tour, if so where?
+2062|If you could have fame but not control of your career, would you still want to be famous?
+2063|Would you rather have a cool boss and learn nothing or a strict boss you learn from?
+2064|Do you have a hard time telling people no?
+2065|Would you ever consider becoming a preacher?
+2066|What do you do when you get really angry?
+2067|If you could do something all over again, what would it be?
+2068|Have you ever received or bought a gag gift, if so what was it?
+2069|Pais§ Life is too short so you need to stop and... What is one thing you will never give up on?
+2070|Calles| What is your favorite gum?
+2071|What table manner do people lack that drives you crazy?
+2072|Do you need to learn how to say NO more often?
+2073|What do you think every couple should do on their honeymoon?
+2074|Was there something you asked for repeatedly as a child, that you were always told no% Do you think a person can always depend on the kindness of strangers?
+2075|Have you ever thrown a temper tantrum until you got your way?
+2076|Which do you think is worse, airplane food or hospital food?
+2077|What strokes your ego?
+2078|How sophisticated are you?
+2079|If you live to be 100 years old, will you want to do something extra special?
+2080|What kind of driver are you?
+2081|What is your biggest turnoff?
+2082|When you lose touch, what snaps you back to reality?
+2083|If you could afford a personal driver to drive you everywhere, would you get one?
+2084|Who do you think has done the most for human rights throughout history?
+2085|What is one thing you’d never do for all the money in the world?
+2086|Could you marry someone with different political beliefs than your own?
+2087|What is the greatest peer pressure you've ever felt?
+2088|Have you ever been a part of a team and how'd that make you feel?
+2089|Have you ever done a criminal background check on someone you've dated?
+2090|What should kids be sheltered from, if anything?
+2091|How long could you go without talking?
+2092|What are you worried will change you?
+2093|utd What triggers your inner shopaholic?
+2094|What part of democracy do you not agree with?
+2095|How cynical are you?
+2096|If you need to come up with a large amount of money in 48 hours, how could you do it What do you feel needs further exploration in our world or universe?
+2097|Who is the smartest person you know and what do you ask them for help with?
+2098|What is the hardest thing about being YOU?
+2099|How tall are you?
+2100|How would you rate your athleticism using fictional characters?
+2101|Have you ever given a speech, if so what about?
+2102|Have you ever declared a truce with someone you were fighting with?
+2103|Have you ever run into a wall or door?
+2104|How would you describe your sarcasm?
+2105|Do you like to meet new people?
+2106|What new TV show recently released do you love?
+2107|Why did you choose your current profession?
+2108|What's your favorite holiday time cartoon?
+2109|Are you conservative, liberal or somewhere in between?
+2110|If you were given $1,000 to spend on your closest friend, what would you get them?
+2111|Have you ever gotten in a bidding war on Ebay, if so for what item?
+2112|Can you do any tricks with your tongue?
+2113|What is a recent compliment you’ve received?
+2114|Who is your favorite radio DJ?
+2115|Do you think a little competition is healthy?
+2116|What is the ultimate cake topping?
+2117|Where is heaven on earth in your opinion?
+2118|Can you juggle?
+2119|Do you believe in heaven and hell?
+2120|What has been your worst haircut/style?
+2121|What were you doing exactly a year ago that’s different than today?
+2122|Is there a family member who you don’t associate with anymore, and why?
+2123|What do you think is the most beautiful word?
+2124|Have you ever ridden on a motorcycle, would you?
+2125|k2 Are you friends with any of your ex’s?
+2126|Who would you want to be stranded on an island with?
+2127|What are you good at guessing?
+2128|What does “The American Dream” mean to you?
+2129|Have you ever had a brush with insanity, how?
+2130|If you wrote an excerpt about the craziest day of your life would it read as fact or fiction?
+2131|Have you ever been a bartender, would you?
+2132|What is the last thing someone talked you into doing that you didn’t want to do?
+2133|Which foreign language did you have to learn at school?
+2134|What do you think the female version of James Bond should be called?
+2135|What should we take measure of that we currently don’t?
+2136|What would you do if you found out you had a sibling you’d never met?
+2137|Have you ever caused a scene, if so where?
+2138|Have you ever participated in “flash mob” if so what song and dance did you do?
+2139|If you could learn any language fluently what would it be?
+2140|Would you rather explore a new planet, or the depths of the ocean?
+2141|How do you like your eggs?
+2142|Do you think unicorns ever existed, prehistorically or otherwise?
+2143|What is special about your hometown?
+2144|Have you ever had a secret admirer?
+2145|What is the strangest thing someone might find under your bed?
+2146|Have you ever gotten stuck anywhere and if so where?
+2147|When was the last time you listened to the sound of your own breathing?
+2148|Do you have a reoccurring New Year’s resolution?
+2149|What is your favorite song to sing in the shower or while you drive?
+2150|Do you think people should learn to limit their cell phone use?
+2151|Out of all the dreams you’ve had for your life, what was your biggest dream of all?
+2152|What should be banned in your country that currently isn’t?
+2153|Are you scared of the dark?
+2154|If you could make a fictional character or cartoon come to life, who would you choose?
+2155|What are 3 things you look for in a partner?
+2156|Have you ever licked the spoon and if so what is your favorite thing to lick?
+2157|If you and a friend both wanted the same thing would you let the friend have it first?
+2158|What metaphor best describes your life?
+2159|What is one thing you really want to change about your appearance?
+2160|Have you ever been served breakfast in bed, if yes by who and why?
+2161|What is your favorite book beginning with the letter F?
+2162|Have you ever prank called someone and if so what did you say?
+2163|What is one life story you plan on telling your grandchildren about?
+2164|If your 5 year old self were looking at you today, would it recognize you?
+2165|Who is the one person you'd love to have as a mentor?
+2166|What Is one thing you always get when you go to the store?
+2167|Do you get seasick?
+2168|Have you ever gotten sick from eating too much?
+2169|What is your favorite thing to put in the freezer to eat or drink that normally isn’t?
+2170|If you started training for the Olympics, what event would you have a realistic chance at?
+2171|If you were going to join a music band past or present, what band would you fit in best?
+2172|How long do you think you could last without your smartphone or internet?
+2173|Is someone’s word enough for you or do you need more?
+2174|What is your favorite eye color on someone else, why?
+2175|Does anything make you feel claustrophobic?
+2176|What do you have on your fridge door?
+2177|What is the most unusual thing you’ve done on a date?
+2178|Have you ever been laid off from a job?
+2179|Do you sleep on your back, stomach, or side?
+2180|What is your favorite magazine cover of all-time?
+2181|What is your favorite conversation topic?
+2182|What is the biggest favor someone has asked you for?
+2183|What do you have now as an adult that you really wanted as a kid?
+2184|Do you like cake or pie more?
+2185|Have you ever met anyone infamous, who?
+2186|Have you ever quit your job, if so why?
+2187|What keeps you up at night?
+2188|If you were designing a haunted house, what is the main scary thing you would have?
+2189|Have you ever sold anything online, if so where and why?
+2190|Do you agree with the statement “love never fails”?
+2191|Your favorite cologne or perfume?
+2192|How many times have you fallen in love?
+2193|Do you think people with freckles are attractive?
+2194|When was the last time you were really stumped and what stumped you?
+2195|What decade would you love to have grown up in?
+2196|Are you a good singer?
+2197|Have you ever not gotten involved in something where you should have, what was it?
+2198|Have you ever gone to a psychic?
+2199|What is your proudest accomplishment?
+2200|Have you ever walked into a wall?
+2201|Do you apologize when you’re wrong?
+2202|If you could wipe one thing off the planet who or what would it be?
+2203|Who's your favorite mythological figure from ancient history?
+2204|Where do you like to go to on a first date?
+2205|Do you go with the flow or against the grain?
+2206|What did you want to be when you were growing up?
+2207|Do you make rash judgements of people too often?
+2208|What do you think your life represents?
+2209|If you could go back in time to change one thing what would it be?
+2210|What do you miss the most often in your life?
+2211|Do you think crying is a sign of weakness or strength?
+2212|What celebrity has the best narrator’s voice?
+2213|If you could change your eye color what would it be?
+2214|What is your favorite movie genre?
+2215|What hate or hatred have you held onto?
+2216|What is your spirit animal?
+2217|Have you ever baked your own cake?
+2218|Do you have a specific brand of bottled water you like or do you think water is water?
+2219|Are you strategic, if so how many steps ahead do you think?
+2220|Do you have a sweet tooth or a savory tooth?
+2221|What brings out your “beast mode”?
+2222|Have you read any self-help books and has any book in particular stood out?
+2223|Is there something most people consider a bad habit that you disagree with?
+2224|Do you think you could be a single parent and raise a child alone?
+2225|What was your favorite subject in school?
+2226|What makes a physically attractive person less attractive?
+2227|What was the last movie you rented?
+2228|Describe a time in your life when the phrase “when it rains, it pours” applied. Have you ever not returned something you borrowed and if so what was it?
+2229|Have you ever been someone’s secret admirer and if so what did you send them?
+2230|What website do you visit the most?
+2231|Do you prefer vertical or horizontal stripes?
+2232|How scared of the dark are you?
+2233|What are you biased about?
+2234|What healthy lifestyle change have you made?
+2235|What is your favorite poem?
+2236|What do you think is the most fundamental value to keep intact?
+2237|What's the best museum you've ever been to?
+2238|If you had to rate yourself on a scale of 1-10, what would you rate yourself?
+2239|What do you like better falling in love or actually being in love?
+2240|Do you think you’re a good person?
+2241|What is your favorite game to play with multiple people?
+2242|Have you ever played the bongos?
+2243|Do you think diseases and length of age are genetics or does health and exercise matter?
+2244|When you were a kid what did your family usually do together?
+2245|What did you love about your neighborhood growing up?
+2246|Have you ever dedicated a song to anyone, what song?
+2247|Do you think sophistication is overrated or undervalued in today’s society?
+2248|Other than money, what do you want to be prosperous in?
+2249|Would you ever take dance lessons and what dance in particular would you want to learn?
+2250|If you could ring in a New Year anywhere in the world, where would you choose?
+2251|What should be the biggest global worry about the future?
+2252|Where did you meet your closest friend?
+2253|What are you generous with?
+2254|If you were to write a song, what would it be about?
+2255|Do you like to read or write more, or both equally?
+2256|Did you join a fraternity or sorority? Would you? Why or why not?
+2257|What would you like to achieve through your work?
+2258|Did you ever have a teacher you felt was unfair to you, if so how?
+2259|If you were going to become a doctor, what would be your field of specialty?
+2260|What was your favorite thing to do after school as a kid?
+2261|Pretend you’re doing an interview, who would you pick and what's the first question?
+2262|What do you appreciate?
+2263|If there were a real vigilante killing bad criminals, would you want them to be punished?
+2264|What do you worry about too much?
+2265|What was your funniest computer or phone wallpaper?
+2266|Do you always calculate risk or are some rewards worth throwing caution to the wind?
+2267|Where could you take more of a leadership role?
+2268|Do you stand in solidarity with any cause or anyone?
+2269|Do you believe in turning the other cheek?
+2270|Have you ever accidentally injured anyone?
+2271|If you knew your best friend’s significant other was lying, would you tell them?
+2272|All roads lead to what...?
+2273|If you could pick one gadget from any superhero to own, what would it be?
+2274|What is the highest speed you’ve ever driven in a car, how did it make you feel?
+2275|What do you give yourself permission to do that is nobody else’s business?
+2276|What wisdom do you like to share?
+2277|Did you ever compete in a science fair and if so what did you make?
+2278|What is a place you think everyone should visit?
+2279|If you have a child, what is one thing you’d never let them do?
+2280|Do you have a funny nickname for something other than yourself?
+2281|Do you shop on Black Friday for deals, if so what’s the best deal you ever got?
+2282|What feels spiritual to you?
+2283|Have you ever had an out of body experience, if so describe it in one word?
+2284|When was the last time you cried and what made you cry?
+2285|What is your worst vacation memory?
+2286|If your friends need you, are you there for them?
+2287|What is the most interesting thing you’ve researched?
+2288|How much attention do you require?
+2289|What are the biggest drawbacks of your current job?
+2290|What's your outlook on life?
+2291|When you were a kid did you have a favourite amusement park ride?
+2292|When you were young did you ever sneak out after curfew, if so where did you go?
+2293|Are you a good artist?
+2294|Have you ever had surgery and if so what for?
+2295|Have you ever been hospitalized, if so why?
+2296|Are you a workaholic?
+2297|Do you have any old friends you wish you could meet up with again?
+2298|If you joined a rock band what position would you want?
+2299|Do you know your own worth?
+2300|If you were designing your own fragrance to represent you, what would you call it?
+2301|What did you do for your 21st birthday, if you’re not 21 what are you planning for it?
+2302|What is something that gave you buyer's remorse?
+2303|Do you know how to jump rope?
+2304|When it’s your birthday do you always wear a birthday hat?
+2305|What present do you think is appropriate to give a teacher in appreciation?
+2306|What is your favorite ride at any aCe Describe your most independent decision or moment without others’ influence?
+2307|Have you ever made a scrapbook for yourself or someone else, what was in it?
+2308|Do you do anything “part-time”?
+2309|In a relationship do you believe in joint or separate bank accounts?
+2310|Do you think friends make better lovers or that friends should never cross that line?
+2311|How would you feel making someone else’s dream come true?
+2312|Where is your home away from home?
+2313|What health topic have you done tons of research on to better your life?
+2314|What specific act or contribution have you done for the environment?
+2315|If you got arrested, who is the first person you’d call?
+2316|Has anyone started a rumor about you, if so what was it about?
+2317|You're starting a band in the morning, what’s your band’s name?
+2318|Pick a board game that describes your love life?
+2319|Have you ever been to Legoland?
+2320|What is your favorite sandwich?
+2321|At what age did you catch on to the fact that Santa wasn't real?
+2322|Do you think Bigfoot is real?
+2323|Do you think a full moon can have an affect on a person?
+2324|Could you work in a morgue if the pay was really good, and why?
+2325|What reality TV show do you think it would be fun to appear on?
+2326|How popular were you in school?
+2327|Have you ever followed an infamous criminal case broadcasting and if so what case?
+2328|What one thing do you know to be true?
+2329|Do you decorate your home for the holidays, if so how?
+2330|Have you ever raised money for charity?
+2331|Compare yourself to the metamorphosis of something. What do you love about winter?
+2332|Did you ever have a babysitter and if so what is one thing you remember about them: What actor or actress is not valued or appreciated enough?
+2333|What is a big obstacle or harmful for new marriages today?
+2334|Have you ever bought anything from an infomercial, if so what?
+2335|Do you feel younger or older than your actual age?
+2336|What life lesson was hardest to learn?
+2337|What 3 things are on your dream home wish list?
+2338|Is there a new hobby you want to try? What Is it?
+2339|How fast can you get changed?
+2340|In your opinion, what is the worst invention ever?
+2341|What’s the most embarrassing thing your father has ever said to you?
+2342|How self-aware are you?
+2343|What song do you know ALL the words to?
+2344|What was the worst present you received?
+2345|Do people often ask you for your opinion and do you give it freely?
+2346|Do you have a list of things to do before you’re “x” years old?
+2347|What is something you’re really good at but hate doing?
+2348|What is your “go-to” accessory?
+2349|Do you collect anything?
+2350|Do you appreciate constructive criticism?
+2351|What conspiracy do you think has merit or is real?
+2352|What card game are you awesome at?
+2353|What is your favorite name for a boy child?
+2354|What creative gift do you know for sure you have?
+2355|What is something people should know about you?
+2356|What do you owe yourself?
+2357|What piques your curiosity?
+2358|Have you ever been dumped?
+2359|Have you ever given a present to someone that they hated/disliked?
+2360|Do you pick out all your outfits for the week or just decide in the morning?
+2361|Do you believe in perfection?
+2362|Are you usually “the life of the party”?
+2363|Do you believe in capital punishment?
+2364|Who makes your favorite pair of shoes?
+2365|What was a specific turning point in your life?
+2366|On a scale of 1-10 how funny would you say you are?
+2367|Do you love or hate rollercoasters?
+2368|Have you ever bent the rules to get ahead?
+2369|What kind of product could you never volunteer to be a taste tester for?
+2370|What’s the most embarrassing or worst thing your parents ever caught you doing?
+2371|When you pack your lunch for work or school, what is your favorite packed lunch?
+2372|Have you ever ridden a tractor?
+2373|If you discover a new species what would you name it?
+2374|Are you scared of thunderstorms?
+2375|Have you ever been banned from a public place?
+2376|If you could choose the profession of your child would you or would you let them choose?
+2377|What fairy tale character do you most relate to?
+2378|In the event of a divorce who do you think should decide where the child lives?
+2379|Have you ever felt ashamed of anyone or anything?
+2380|In your opinion who was the worst dictator in allof history?
+2381|What new memories do you want to make?
+2382|What is the largest amount of money you’ve had to borrow off someone?
+2383|What is your favorite animated or cartoon program?
+2384|Have you ever eavesdropped on someone, and if so what did you hear?
+2385|Where do you see yourself in 10 years’ time?
+2386|Where is your favorite place to window shop?
+2387|Other than candy, what do you think is a good trick or treat to hand out on Halloween?
+2388|What is your favorite type of seafood?
+2389|Would you join in a revolution?
+2390|Do you count your chickens before they hatch, if so how?
+2391|If you could breed two species together what new animal would you create?
+2392|Are you scared of needles?
+2393|As a society what could we all do better?
+2394|Where did you watch your most memorable sunset?
+2395|When was the last time you lost your temper?
+2396|Do you think babies are little bundles of joy or smelly noisy things?
+2397|Have you ever gone out in public in your pajamas, where did you go?
+2398|Would you accept a fatal mission in exchange for lifetime of support for your family?
+2399|What was your first car (or what would you like it to be)?
+2400|Do you consider your pet a part of your family or like your child?
+2401|Have you ever met any celebrities?
+2402|If you could change your name, what new name would you want?
+2403|Are you a better friend to your friends than they are to you?
+2404|What anagram can be formed from your name?
+2405|Do you believe the truth will set you free or is it overrated?
+2406|If you won a million dollars but had to give it all away in 24 hours, how would you do it?
+2407|Do you make a pro and con list or just go with your gut?
+2408|What superstition are you most afraid will give you bad luck for real?
+2409|What do you like to do at the park?
+2410|Would you rather be a worried genius or a joyful simpleton?
+2411|Have you ever had a long distance relationship?
+2412|If you could have an extra hour in the day, what would you do with it?
+2413|What is a subject in school you hated?
+2414|What was the worst case of mistaken identity you’re aware of?
+2415|Have you ever had chicken pox?
+2416|Do you think morals are universal or relative?
+2417|How well do you stand your ground?
+2418|Zol0 What’s the most fun card game?
+2419|If you became powerful do you worry you’d abuse your power?
+2420|What is one thing you love about the country you were born in?
+2421|Are you all talk, all action or a little of both?
+2422|What have you lost touch with?
+2423|Have you ever test driven a car you knew you weren't going to buy, if so what?
+2424|Did you ever wear glasses, braces or something different-how did it make you feel?
+2425|Would you steal to feed a starving child?
+2426|How do you cheer up someone having a bad day?
+2427|What is one thing you hate about the holiday season?
+2428|In your opinion what’s the one thing someone getting married should do for their big day?
+2429|How far up Mt. Everest do you think you'd get if you had to climb it tomorrow?
+2430|What do you typically have for breakfast?
+2431|What carb are you addicted to?
+2432|What age did you hit puberty and what was the worst thing about it?
+2433|What is really complicated about your life?
+2434|If you could afford to hire a personal assistant, what tasks would you give them to do?
+2435|Have you ever been to an art gallery?
+2436|What’s the silliest thing you’ve ever cried about?
+2437|How frugal are you?
+2438|What gets better with age?
+2439|How important is starting and having a family to you?
+2440|Do you think the description of life as a roller coaster is accurate or not?
+2441|What matters most to you?
+2442|Do you know any identical twins?
+2443|What’s the worst movie you ever saw in a movie theater?
+2444|Are you old-fashioned?
+2445|What position do you often sleep in?
+2446|What is the most daring thing you’ve done?
+2447|Who do you think is the greatest sports athlete ever?
+2448|Would you live in a castle?
+2449|Have you ever remained friends with an ex-lover?
+2450|What things do you want to have in common with your significant other?
+2451|Are you pretty devious?
+2452|What is your favorite thing to do in front of a fireplace?
+2453|What is something gross you've done, that you’d die of shame if anyone found out?
+2454|Do you believe in love at first sight?
+2455|Are all men and women created equal?
+2456|Who is a male role model in your life?
+2457|What is the greatest crime against humanity?
+2458|Who is the legend of all legends in your opinion?
+2459|If you were a Super hero what outfit would you wear?
+2460|What’s your favorite cereal?
+2461|How do you flirt with someone?
+2462|How would you describe yourself to a blind person in 5 words or less?
+2463|Do you like dressing up or do you prefer to always keep it casual?
+2464|If you were going on a road trip what are the 3 “must-haves” you couldn’t leave without?
+2465|Can you honestly say you’re enjoying your life right now?
+2466|If you’re having a bad day, what makes it better?
+2467|How often do you lie?
+2468|Do you suck or bite lollipops?
+2469|What are three things you can’t live without?
+2470|If you were married and you had trouble in your relationship, would you go to counseling?
+2471|Have you ever been a member of a club?
+2472|Have you ever exacted revenge on someone, what did they do to you?
+2473|What is your most valuable skillset?
+2474|Have you ever been in a helicopter?
+2475|Who was the best boss you ever had and what made them the best?
+2476|What is currently taxed that you feel should have no taxes?
+2477|Do you know any self defense moves or martial arts?
+2478|What do you find cliché?
+2479|Who is your favorite crooner?
+2480|What makes a person trustworthy in your opinion?
+2481|What is your favorite style of architecture?
+2482|What actor or actress would play you in a documentary?
+2483|When you're looking to meet someone with relationship potential, where is the best place?
+2484|What song best describes your life?
+2485|If you were making a care package for your enemy what would you put in it?
+2486|Do you ever make your own greeting cards?
+2487|What are you still looking forward to most in your life?
+2488|Do you like to always look your best?
+2489|For a romantic picnic what are the 2 most important things?
+2490|What is your favorite music video of all time?
+2491|What helps you keep things in perspective?
+2492|The world is flooding and you must build a small ark, which 7 animals would you save?
+2493|What gives you pause?
+2494|What is the worst dare you’ve ever been given and did you do it?
+2495|Do you respect authority?
+2496|Do you like musicals?
+2497|Have you ever settled for something?
+2498|Which living person do you most admire?
+2499|Do you get over-involved with TV or movie plots?
+2500|Do you think marriage is still sacred in today’s society?
+2501|If you could wave a magic wand and make something happen right now what would it be?
+2502|Have you ever thrown a pity party for yourself and if so what about?
+2503|What do you typically drink with your meals?
+2504|You’re creating an entirely new kind of potato chip, what flavor is it?
+2505|What culture or lifestyle different than yours would you love to live in and explore?
+2506|If you could sing a duet with anyone, who would it be?
+2507|What would be the funniest thing you’d say to a cop to get out of a ticket?
+2508|What caused the worst injury you ever had?
+2509|Have you ever been hazed, if so how?
+2510|What instantly pushes your buttons?
+2511|What movie do you wish life was more like?
+2512|Who are you trying too hard to please?
+2513|Can you blow a bubble with bubblegum?
+2514|Have you ever gotten insomnia and if so what gives it to you?
+2515|Who was the last person you said “|! love you” to?
+2516|What makes you feel uncomfortable in group settings?
+2517|Are you saving for retirement or do you think you still have time?
+2518|If you were a giant mega monster what city would you rampage?
+2519|Have you ever performed in front of a large audience?
+2520|Have you ever contested anything?
+2521|Are you a hypochondriac or the opposite?
+2522|What color combination do you love together?
+2523|How do you take care of your emotional well-being?
+2524|Is there someone that you truly hate?
+2525|Have you and your best friend ever been interested in the same person?
+2526|What scared you as a child?
+2527|What superhero would you love to date (if you were single)?
+2528|Do you trust the police?
+2529|Is torture ever a good option? If no, why not? If yes, when?
+2530|What would you do if you won the lottery?
+2531|Where are you ticklish?
+2532|Has anyone given you a gift that was inscribed, if so what did it say?
+2533|What’s a belief that you hold with which many people disagree?
+2534|Do you think it’s tacky or romantic to elope and get married in Las Vegas?
+2535|What is one thing you wish you’d spent more time doing when you were younger?
+2536|Is there a food you hated as a kid but now love as an adult?
+2537|What is your favorite actor beginning with the letter K?
+2538|Do you still spend pennies, what do you do with them?
+2539|Do you live by any special philosophy?
+2540|Jason Bourne or James Bond-who is your favorite spy?
+2541|Have you ever been rejected by anyone?
+2542|What personality trait gets you into trouble?
+2543|What is something you don’t mind sharing with other people?
+2544|Do you buy any weekly/monthly magazines?
+2545|How do you settle your nerves?
+2546|What is the worst grudge you ever held?
+2547|Would you rather learn sign language or a foreign language of your choice?
+2548|Do you think the 2016 U.S. Presidential outcome will affect you?
+2549|What was your sink or swim moment?
+2550|What are you never satisfied with?
+2551|Do you think paper money will eventually be replaced and if so by what?
+2552|What do you dread?
+2553|How much do you trust doctors?
+2554|Do you make wishes when you blow out your birthday candles, and have any come true?
+2555|Do you have much of an ego?
+2556|Have you ever milked a cow and if not would you try?
+2557|Do you and your significant other have a special song, if so what is it?
+2558|What answers are you searching for?
+2559|Have you ever re-gifted a present you received and if so what was it?
+2560|Do you believe the government hides technology and information from the public?
+2561|What helps you gain insight?
+2562|What is your secret to success?
+2563|What's the strangest thing you’ve ever seen in the middle of the road?
+2564|What have you decided to dedicate your life to doing?
+2565|What is the strangest skeleton you ever discovered in someone's closet?
+2566|Did you ever lose respect for someone you once really respected, who?
+2567|Have you ever had a crisis of faith, if so what triggered it?
+2568|If you were to join one of the armed forces which would it be?
+2569|What is your favorite kind of pet?
+2570|Have you ever seen a shooting star, meteor shower or any other astronomical event?
+2571|Who do you sometimes compare yourself to?
+2572|What is the funniest punchline to a joke you’ve ever heard?
+2573|Your favorite thing to do when couch surfing?
+2574|How do you feel about global warming (use one sentence)?
+2575|What good habits have you recently developed?
+2576|What is something your parents love that you actually love too?
+2577|What Disney character do you love the most?
+2578|What's your favorite flavor of salad dressing?
+2579|When you close your eyes what do you see?
+2580|Would there ever be a reason you’d support war?
+2581|Have you ever accidentally set fire to yourself?
+2582|Who do you like to shop with?
+2583|Where do you go when you need to blow off some steam?
+2584|Do you think you can learn something from everyone you meet?
+2585|What historic person would you love as a mentor?
+2586|How much money a year do you spend on clothing?
+2587|What is a bigger fear for you: getting a shot from the doctor or going to the dentist?
+2588|Are you the kind of friend you’d want to have as a friend yourself?
+2589|What beach do you want to visit?
+2590|Do you think companies should be able to use lie detector tests for work incidences?
+2591|Back in high school what was the strangest thing someone could find in your locker?
+2592|What is your favorite precious metal?
+2593|What is the one thing you always got away with as a kid?
+2594|What holiday do you think is nonsense?
+2595|What was something you learned in school that is absolutely useless in life?
+2596|What’s the worst thing about your life?
+2597|Have you ever had a “false alarm” moment, what was it about?
+2598|What is your birthstone?
+2599|Do you think whaling should be allowed?
+2600|What was the first car you ever owned?
+2601|Have you ever been to a rodeo?
+2602|Have you ever participated in a focus group, if so for what?
+2603|Do you think taking naps is a good thing or healthy?
+2604|What makes you original?
+2605|Do you think Valentine’s Day is romantic or just too commercial?
+2606|If you were told you had to downsize your life, where's the first place you’d start?
+2607|What is your favorite country beginning with the letter Z?
+2608|If the world was ending tomorrow, what would you do today?
+2609|Do you consider yourself a DIY person?
+2610|What is the best thing you bring into a friendship?
+2611|If you could make one of your hobbies into a profession, which one would it be?
+2612|What did you do on your most memorable summer vacation away from school?
+2613|If you could be President of the U.S. for a day, what would be your first order of business?
+2614|What is your perfect birthday cake?
+2615|What small act of kindness were you once shown that you will never forget?
+2616|What is your all-time favorite sports team?
+2617|What is your biggest motivation?
+2618|What phrase or quote best describes you?
+2619|What's the longest you’ve gone without sleep?
+2620|Do you give up easily or are you a fighter?
+2621|Does your name have.a special or significant meaning, if so what?
+2622|Who is the most famous person you’ve ever met?
+2623|What is something from your childhood that you still have to this day?
+2624|Have you ever sold your services?
+2625|What do you love most about where you live now?
+2626|What social issue weighs on your mind?
+2627|What question should you never ask someone you just met?
+2628|What is a lie your parents or teachers would always tell you?
+2629|What is your zodiac sign and do the behavior traits fit your personality?
+2630|Is the glass half empty or half full?
+2631|Have you ever argued over who should pay for something?
+2632|Is there something you need to tell your family but are afraid to?
+2633|What movement in history helped shape your life?
+2634|What is one thing a role model should always do in your opinion?
+2635|What Is a vice you won’t part with?
+2636|Do you think there is a real Loch Ness Monster?
+2637|Who or what motivates you?
+2638|Do you consider yourself a team player?
+2639|If you got to nominate the next President of the U.S., who would get your endorsement?
+2640|What or who do you have an unhealthy relationship with?
+2641|Do you have a favorite podcast?
+2642|What is one thing you can do today you could not do a year ago?
+2643|Do you think it’s a thin line between love and hate?
+2644|If you could change one thing about the U.S. Constitution what would it be?
+2645|What is the scariest ghost story you’ve ever heard?
+2646|What is something you’re afraid to try?
+2647|What's your favorite day of the week?
+2648|Do you have anything autographed by a celebrity?
+2649|What age would you like to retire?
+2650|Who is one person from history who was taken too soon?
+2651|Is there anything standing in the way of your happiness?
+2652|What is your favorite Christmas or holiday tradition?
+2653|Do you have a signature move or quirk that people notice or comment on?
+2654|If you could predict one thing and one thing only, what would it be?
+2655|What do you do to fight temptation?
+2656|What is/was the best thing about being single?
+2657|What was the best road trip you’ve ever had?
+2658|What celebrity do you think would make a great world leader?
+2659|If you had to live abroad for only one year for work, where would you want to live?
+2660|What was the craziest question you ever had to answer on an interview?
+2661|How fast do you type?
+2662|What fashion faux pas really drive you crazy, like wearing socks with sandals?
+2663|What is your greatest insecurity?
+2664|If you could predict the future for your life, would you want to know?
+2665|If you were like Dorothy traveling the yellow brick road, where would you want it to lead?
+2666|What is a game you remember from your childhood?
+2667|What is your favorite city beginning with the letter Y?
+2668|Have you ever found an unlikely ally, if so who?
+2669|Would you ever date someone that had kids from a previous relationship?
+2670|What fact do you tell people about yourself that most people think is a lie?
+2671|What stereotype do you fit into?
+2672|What have you given up on that you wish you never had?
+2673|What is your favorite holiday?
+2674|Have you ever tie-dyed your own clothes?
+2675|What childlike characteristics do you still retain?
+2676|Do you like sushi, if so what’s your favorite kind?
+2677|Would you help a homeless person if they needed mouth-to-mouth resuscitation?
+2678|Can you tell when someone is lying to you, if so how?
+2679|Do you think people should have to take an IQ test to be able to vote?
+2680|If you were a flavor, what flavor would you be?
+2681|Are you any good at pool?
+2682|What mythological creature or deity fascinates you?
+2683|If someone said “today you have to get dirty” what would be the most fun way?
+2684|If you were going to become a freelancer, what services would you offer?
+2685|Have you started a rumor about anyone and if so who?
+2686|When you picture your future, what is one thing that stands out?
+2687|What do you do more of when times get hard for you?
+2688|What do you do when you’ve reached a goal you set?
+2689|Have you ever studied another form of religion than you were taught, which one?
+2690|How paranoid are you?
+2691|What instantly melts your heart?
+2692|What was your last dream about?
+2693|What is the one thing you’d be really disappointed if you never get to experience?
+2694|Do you need to slow down in any area of your life?
+2695|Would you want to have dual citizenship and what would be the other country?
+2696|90 Has anyone you ever really, really liked thought of you as friend only?
+2697|If you could take a class to learn anything, what would it be?
+2698|What do you sometimes pretend you understand that you really don’t?
+2699|How easily do you fall in love, does it take a while or pretty quick?
+2700|If you looked at your life right now, is this the life you’ve dreamed of?
+2701|At what point during the last five years have you felt lost?
+2702|What excuse do you tell yourself far too often?
+2703|What is the biggest problem you've ever solved?
+2704|Have you ever done something unbelievable, only to have no one around to see it?
+2705|Do you enjoy doing things alone, what specifically?
+2706|Do you worry about what people think of you?
+2707|In a few words what are your thoughts on gratuity?
+2708|What was your favorite age, so far?
+2709|How do you feel about the rain?
+2710|Who was your first love and where are they now?
+2711|What is the last kind thing you did for someone else?
+2712|What type of music do you like?
+2713|What’s the oddest thing you’ve ever stuck in your ear in place of a Q-tip?
+2714|Do you think facial moles or freckles are cute?
+2715|Have you ever lied about where you worked, if so what did you say you did?
+2716|If you had to describe yourself as cheese, what cheese would you be?
+2717|What gives you an eerie feeling?
+2718|Have you ever had anything published?
+2719|What is your favorite boys’ name beginning with the letter D?
+2720|Have you ever protested anything?
+2721|What conundrum have you ever faced?
+2722|If you took up boxing what would be your fighting name?
+2723|What is the worst thing that has ever bitten you?
+2724|If you could have chosen another profession, what?
+2725|Are you a risk taker?
+2726|What subject do you and your parents never see eye to eye on?
+2727|What are you most compassionate or empathetic about with other people?
+2728|How well do you work under pressure?
+2729|If you stopped trusting your closest friend would you end the friendship or work on it?
+2730|Have you ever had anything stolen, if so what was it?
+2731|What types of people make you feel alive?
+2732|When playing checkers or chess do you prefer to be black or white?
+2733|What is one thing your family wouldn’t know about you?
+2734|How much do you trust your own instincts?
+2735|Who would you want to sing a song you’ve written?
+2736|What mistake do people make that you often correct?
+2737|What is your favorite musical instrument beginning with the letter H?
+2738|What are you passionate about?
+2739|Do you think vanity is a good thing?
+2740|When have you lied about your age?
+2741|Have you ever had a disastrous interview?
+2742|What do you think will be your legacy?
+2743|If you had to compare yourself to a historical outlaw, who would it be?
+2744|If you could meet your true soulmate but they would die in a year; would you want to?
+2745|Have you ever passed out, if so what caused it?
+2746|Has someone ever been cold hearted to you, if so how?
+2747|Is there anything you are really stingy with?
+2748|What scenario was so difficult that you couldn’t make a decision so you let someone else?
+2749|What is your favorite drink beginning with the letter O?
+2750|What things do you wish were avoidable?
+2751|Do you believe everything happens for a reason?
+2752|Have you ever had a wardrobe malfunction, if so where were you?
+2753|Who do you distrust the most in your life?
+2754|What makes you moody?
+2755|If you became rich would you still continue working?
+2756|Do you like spicy food and if so how do you make it spicy?
+2757|Where is one place you hope to visit before you die?
+2758|52 Who is the first person you share good news with?
+2759|Have you ever sleepwalked?
+2760|Every fall the pumpkin spice craze comes, what’s your favorite pumpkin spice item?
+2761|Do you think there could ever be humans with special powers?
+2762|Are putting any part of your life on hold?
+2763|Is there something that makes you very sleepy?
+2764|On a cold winter’s night what warms you up?
+2765|If you could go back in history and meet an explorer and join them, who would it be?
+2766|Who is your favorite music DJ and what is one thing you like about them?
+2767|What is your first thought upon waking up?
+2768|What is one thing you wish your resume said?
+2769|Do you have a camera that uses conventional film?
+2770|What do you love most about a carnival or county fair?
+2771|What is the worst thing you deal with about being a man/woman?
+2772|Do you have a prediction of when or if the world will ever end?
+2773|What does the way you live your life say about you?
+2774|Would you join the witness protection program for your own safety if it meant leaving?
+2775|What is the worst problem you ever had to solve that you didn’t create?
+2776|Do you think history is destined to repeat itself?
+2777|What historical period would you like to live in oe could go back in time?
+2778|In your opinion what makes a bold statement on a person?
+2779|What book have you really wanted to read but didn’t because it was too long?
+2780|Where would you love to travel to but are afraid to go due it being dangerous?
+2781|PasTes Have you ever been in a play for school or any kind of theatre, if so what was the title?
+2782|How important is compatibility in your friendships?
+2783|Do you think childhood or adulthood is harder, and in a few words why?
+2784|Have you ever broken a promise to yourself?
+2785|Are you materialistic?
+2786|Are you addicted to selfies?
+2787|How do you release your anger?
+2788|Are you a selfless person or more selfish?
+2789|What was the hardest thing about being a kid for you?
+2790|Do you own a gun, would you and why/why not?
+2791|What is something people do daily that makes you shake your head in disappointment?
+2792|Which do you think is bigger: The World Series or Super Bowl? why?
+2793|If you were a farmer, what crop would you want to grow?
+2794|If you were serving on a jury, could you sway other jurors if they were divided?
+2795|Are you right or left handed and have you tried becoming ambidextrous?
+2796|What was the last gift you received that you loved?
+2797|Who is your favorite villain/bad guy?
+2798|What would be your dream sandwich?
+2799|Have you ever been up in a hot-air balloon?
+2800|How do you cope with stress?
+2801|What lie do you hear over and over?
+2802|Which fictional character do you wish was real?
+2803|Do you treasure your friendships more than your family?
+2804|Have you ever taken the advice “sleep on it” before you make a big decision?
+2805|Have you ever wished upon a star?
+2806|What 5 world leaders would you make sit down in a room to discuss issues?
+2807|Has anyone ever assumed something about you that was untrue, what was it?
+2808|Have you served in the military, did you ever consider it and if so what branch?
+2809|What sci-fi movie represents how you feel in the mornings?
+2810|Do you tend to boss other people or your family members around?
+2811|Do you think hard work pays off or is some of it luck?
+2812|What is worth fighting for?
+2813|I0F Best invention ever made. Have you ever participated in a reenactment, if so what?
+2814|Do you shout out the answers at the TV while watching quiz shows?
+2815|Name one thing you did where the risk was well worth the reward?
+2816|Have you ever smoked a cigar, would you, for what occasion?
+2817|What do you like to pick other people’s brains about?
+2818|If you could eliminate one disease from the planet forever, what would it be?
+2819|Where do you see yourself in 1 year’s time?
+2820|What empowers you?
+2821|What is one thing that makes someone brave in your opinion?
+2822|If you were leaving to another planet and could only take 3 things, what would you take?
+2823|Have you ever written a love letter?
+2824|If you were to give someone “food for thought” what would it be?
+2825|What is your favorite smart phone app?
+2826|If you could erase someone’s memory who would it be and what memory?
+2827|e922 Have you ever been left behind somewhere, if so by who and where?
+2828|What was the stupidest thing to “trend” in your opinion?
+2829|Have you ever played matchmaker with your friends, and did it work out?
+2830|Do you like meeting new people?
+2831|If you were choosing the next contenders for Celebrity Death Match who would it be?
+2832|Should schools be allowed to search a student’s locker without cause?
+2833|Do you think dragons may have been real at some point?
+2834|What's your favorite grocery store?
+2835|Have you ever taken anything from a hotel, if so what?
+2836|Where was the most romantic date you ever had?
+2837|Worst experience involving a car?
+2838|What restores your faith?
+2839|When you were a kid did your parents let you have a sleepover with friends?
+2840|Can you play the harmonica?
+2841|If you were going to marry a fictional character who would it be?
+2842|What would you do if you had no money?
+2843|What or who is your favorite thing to cuddle?
+2844|Are you holding a grudge against someone or something, if so what?
+2845|Whois your favorite “brand ambassador or mascot”?
+2846|What do you try too hard at?
+2847|What is your favorite microwavable food?
+2848|What is the scariest sound you could hear in the middle of the night?
+2849|What is your favorite magazine to read?
+2850|What always seems too out of reach for you?
+2851|Have you ever been a bad influence on someone?
+2852|Do you eat leftovers?
+2853|Who do you confide in most often?
+2854|Have you ever seen or met your doppelganger?
+2855|Do you think the supernatural exists?
+2856|Have you ever pitted two people against each other for personal gain, why?
+2857|If you were a scratch-n-sniff sticker, what would you be?
+2858||s art really subjective?
+2859|Do you have a friend that feels closer to you than family, if so who?
+2860|Do you have a favorite coffee mug, if so what’s on it or what makes it your favorite?
+2861|o5/ What cartoon character best describes you?
+2862|Have you ever served on a jury? What type of case was it?
+2863|Do you value other people’s opinion?
+2864|Have you ever been horseback riding?
+2865|What excites you about the future?
+2866|What celebrity would you want as one of your BFFs?
+2867|Has anyone ever cheated on you, did you forgive them or could you?
+2868|What do you pig out on?
+2869|What is your MOST favorite: ice cream, gelato, sorbet or frozen yogurt? What flavor?
+2870|How do you handle passive aggressive people?
+2871|When is communication essential in your opinion?
+2872|What female celebrity do you find uniquely beautiful?
+2873|Who is the one person you can depend on when you're in trouble?
+2874|Regardless of the song, which music video was most creative in your opinion?
+2875|When you're alone what memory comes back the most?
+2876|Finish this sentence using your sense of humor: It’s a bird, it’s a plane, no it’s... Do you think children will enhance your life or complicate it?
+2877|What makes you feel connected to your family?
+2878|Do you like Indian food, if so what’s your favorite dish?
+2879|If dog’s are man’s best friend and diamonds are a girl’s, then what is your best friend?
+2880|What is your favorite job beginning with the letter T?
+2881|Who made the best first impression on you?
+2882|Who is the most creative person you know?
+2883|What is one thing you remember about your childhood home?
+2884|What is your pet peeve?
+2885|Were you ever a member of any celebrity fan club?
+2886|In your opinion what song is the most annoying ever?
+2887|Has your life gone according to how you envisioned it?
+2888|Were you voted “most likely” for anything in your class yearbook?
+2889|Have you ever cheated at a test?
+2890|What historic war do you feel was most tragic and which was most beneficial?
+2891|What is one interesting fact about your ancestors?
+2892|What is your favorite board game?
+2893|What's your lucky number?
+2894|If you were a member of the Spice Girls, what would your spice handle be?
+2895|If technology allowed would you rather live under the ocean or high above the clouds?
+2896|What would be your antonym for carpe diem?
+2897|What is your favorite Pokémon?
+2898|Have you been to the opera or ballet, which was better?
+2899|What do you think people undervalue today?
+2900|Have you ever bought someone flowers?
+2901|What is something you wish you could avoid?
