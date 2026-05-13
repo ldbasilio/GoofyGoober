@@ -12,9 +12,9 @@ void showMenu()
     std::cout << "1. Get Random Question\n";
     std::cout << "2. View Progress\n";
     std::cout << "3. View Previous Responses\n";
-    std::cout << "4. Reset Progress\n";
-    std::cout << "5. Exit\n";
-    std::cout << "Choice: ";
+    std::cout << "4. Search Response by Question Number\n";
+    std::cout << "5. Reset Progress\n";
+    std::cout << "6. Exit\n";
 }
 
 void viewResponses()
@@ -44,6 +44,59 @@ void viewResponses()
     }
 }
 
+void searchResponseByQuestionNumber()
+{
+    std::ifstream file("data/responses.txt");
+
+    if (!file)
+    {
+        std::cout << "\nNo responses file found.\n";
+        return;
+    }
+
+    std::cout << "\nEnter question number: ";
+
+    int targetNumber;
+    std::cin >> targetNumber;
+    std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+
+    std::string target = "QUESTION #" + std::to_string(targetNumber) + ":";
+
+    std::string line;
+    bool found = false;
+
+    while (std::getline(file, line))
+    {
+        if (line == target)
+        {
+            found = true;
+
+            std::cout << "\n========================================\n";
+
+            do
+            {
+                std::cout << line << "\n";
+
+                if (line == "----------------------------------------")
+                {
+                    break;
+                }
+
+            } while (std::getline(file, line));
+
+            std::cout << "========================================\n";
+
+            break;
+        }
+    }
+
+    if (!found)
+    {
+        std::cout << "\nNo saved response found for question #"
+                  << targetNumber << ".\n";
+    }
+}
+
 void answerQuestion(QuestionManager& manager)
 {
     Question question = manager.getRandomQuestion();
@@ -70,7 +123,7 @@ void answerQuestion(QuestionManager& manager)
     std::string answer;
     std::getline(std::cin, answer);
 
-    if (!manager.saveResponse("data/responses.txt", question.text, answer))
+    if (!manager.saveResponse("data/responses.txt", question, answer))
     {
         std::cout << "Error: Could not save response.\n";
         return;
@@ -126,7 +179,7 @@ int main()
 
     int choice = 0;
 
-    while (choice != 5)
+    while (choice != 6)
     {
         showMenu();
 
@@ -158,15 +211,19 @@ int main()
         }
         else if (choice == 4)
         {
-            resetProgress(manager);
+            searchResponseByQuestionNumber();
         }
         else if (choice == 5)
+        {
+            resetProgress(manager);
+        }
+        else if (choice == 6)
         {
             std::cout << "\nGoodbye!\n";
         }
         else
         {
-            std::cout << "\nInvalid choice. Please choose 1-5.\n";
+            std::cout << "\nInvalid choice. Please choose 1-6.\n";
         }
     }
 

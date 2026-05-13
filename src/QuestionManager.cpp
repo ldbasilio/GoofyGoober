@@ -157,7 +157,7 @@ void QuestionManager::markCurrentQuestionAnswered()
 }
 
 bool QuestionManager::saveResponse(const std::string& filename,
-                                   const std::string& question,
+                                   const Question& question,
                                    const std::string& answer)
 {
     std::ofstream file(filename, std::ios::app);
@@ -167,8 +167,8 @@ bool QuestionManager::saveResponse(const std::string& filename,
         return false;
     }
 
-    file << "QUESTION:\n";
-    file << question << "\n\n";
+    file << "QUESTION #" << question.id << ":\n";
+    file << question.text << "\n\n";
 
     file << "ANSWER:\n";
     file << answer << "\n\n";

@@ -26,7 +26,7 @@ public:
     Question getRandomQuestion();
     void markCurrentQuestionAnswered();
     
-    bool saveResponse(const std::string& filename, const std::string& question, const std::string& answer);
+    bool saveResponse(const std::string& filename, const Question& question, const std::string& answer);
     
     bool hasQuestionsLeft() const;
     int getQuestionCount() const;
