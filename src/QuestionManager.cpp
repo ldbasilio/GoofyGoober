@@ -33,7 +33,11 @@ bool QuestionManager::loadQuestions(const std::string& filename)
 
         if (separator != std::string::npos)
         {
-            std::string question = line.substr(separator + 1);
+            Question question;
+
+            question.id = std::stoi(line.substr(0, separator));
+            question.text = line.substr(separator + 1);
+
             questions.push_back(question);
         }
         else

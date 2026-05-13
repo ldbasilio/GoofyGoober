@@ -46,10 +46,11 @@ void viewResponses()
 
 void answerQuestion(QuestionManager& manager)
 {
-    std::string question = manager.getRandomQuestion();
+    Question question = manager.getRandomQuestion();
 
     std::cout << "\nQuestion:\n";
-    std::cout << question << "\n\n";
+    std::cout << "#" << question.id << "\n";
+    std::cout << question.text << "\n\n";
 
     std::cout << "1. Answer this question\n";
     std::cout << "2. Skip and get another later\n";
@@ -69,7 +70,7 @@ void answerQuestion(QuestionManager& manager)
     std::string answer;
     std::getline(std::cin, answer);
 
-    if (!manager.saveResponse("data/responses.txt", question, answer))
+    if (!manager.saveResponse("data/responses.txt", question.text, answer))
     {
         std::cout << "Error: Could not save response.\n";
         return;

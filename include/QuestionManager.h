@@ -3,10 +3,16 @@
 #include <string>
 #include <vector>
 
+struct Question
+{
+    int id;
+    std::string text;
+};
+
 class QuestionManager
 {
 private:
-    std::vector<std::string> questions;
+    std::vector<Question> questions;
     std::vector<int> availableIndexes;
     int currentIndex;
 
@@ -17,7 +23,7 @@ public:
     bool loadProgress(const std::string& filename);
     bool saveProgress(const std::string& filename);
 
-    std::string getRandomQuestion();
+    Question getRandomQuestion();
     void markCurrentQuestionAnswered();
     
     bool saveResponse(const std::string& filename, const std::string& question, const std::string& answer);
