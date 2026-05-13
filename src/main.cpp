@@ -1,6 +1,115 @@
 #include <iostream>
+#include <fstream>
 #include <string>
+#include <limits>
 #include "QuestionManager.h"
+
+void showMenu()
+{
+    std::cout << "\n==============================\n";
+    std::cout << "      GoofyGoober Journal\n";
+    std::cout << "==============================\n";
+    std::cout << "1. Get Random Question\n";
+    std::cout << "2. View Progress\n";
+    std::cout << "3. View Previous Responses\n";
+    std::cout << "4. Reset Progress\n";
+    std::cout << "5. Exit\n";
+    std::cout << "Choice: ";
+}
+
+void viewResponses()
+{
+    std::ifstream file("data/responses.txt");
+
+    if (!file)
+    {
+        std::cout << "\nNo responses found yet.\n";
+        return;
+    }
+
+    std::string line;
+    bool hasContent = false;
+
+    std::cout << "\n========== Previous Responses ==========\n\n";
+
+    while (std::getline(file, line))
+    {
+        std::cout << line << "\n";
+        hasContent = true;
+    }
+
+    if (!hasContent)
+    {
+        std::cout << "No responses found yet.\n";
+    }
+}
+
+void answerQuestion(QuestionManager& manager)
+{
+    std::string question = manager.getRandomQuestion();
+
+    std::cout << "\nQuestion:\n";
+    std::cout << question << "\n\n";
+
+    std::cout << "1. Answer this question\n";
+    std::cout << "2. Skip and get another later\n";
+    std::cout << "Choice: ";
+
+    int choice;
+    std::cin >> choice;
+    std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+
+    if (choice == 2)
+    {
+        std::cout << "\nQuestion skipped. It will stay in the available list.\n";
+        return;
+    }
+
+    std::cout << "\nYour answer: ";
+    std::string answer;
+    std::getline(std::cin, answer);
+
+    if (!manager.saveResponse("data/responses.txt", question, answer))
+    {
+        std::cout << "Error: Could not save response.\n";
+        return;
+    }
+
+    manager.markCurrentQuestionAnswered();
+
+    if (!manager.saveProgress("data/progress.txt"))
+    {
+        std::cout << "Error: Could not save progress.\n";
+        return;
+    }
+
+    std::cout << "\nAnswer saved. Progress updated.\n";
+}
+
+void resetProgress(QuestionManager& manager)
+{
+    std::cout << "\nAre you sure you want to reset progress? (y/n): ";
+
+    char confirm;
+    std::cin >> confirm;
+    std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+
+    if (confirm != 'y' && confirm != 'Y')
+    {
+        std::cout << "\nReset cancelled.\n";
+        return;
+    }
+
+    manager.loadQuestions("data/questions.txt");
+
+    if (!manager.saveProgress("data/progress.txt"))
+    {
+        std::cout << "Error: Could not reset progress.\n";
+        return;
+    }
+
+    std::cout << "\nProgress reset. All questions are available again.\n";
+}
 
 int main()
 {
@@ -14,25 +123,51 @@ int main()
 
     manager.loadProgress("data/progress.txt");
 
-    std::cout << "GoofyGoober Journal App\n";
-    std::cout << "Loaded " << manager.getQuestionCount() << " questions.\n\n";
+    int choice = 0;
 
-    std::string question = manager.getRandomQuestion();
+    while (choice != 5)
+    {
+        showMenu();
 
-    std::cout << "Question:\n";
-    std::cout << question << "\n\n";
+        if (!(std::cin >> choice))
+        {
+            std::cout << "\nInvalid input. Please enter a number.\n";
+            std::cin.clear();
+            std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+            continue;
+        }
 
-    std::cout << "Your answer: ";
-    std::string answer;
-    std::getline(std::cin, answer);
+        std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
 
-    manager.saveResponse("data/responses.txt", question, answer);
-
-    manager.markCurrentQuestionAnswered();
-
-    manager.saveProgress("data/progress.txt");
-
-    std::cout << "\nAnswer saved later. Progress updated.\n";
+        if (choice == 1)
+        {
+            answerQuestion(manager);
+        }
+        else if (choice == 2)
+        {
+            std::cout << "\nTotal Questions: " << manager.getQuestionCount() << "\n";
+            std::cout << "Remaining Questions: " << manager.getRemainingCount() << "\n";
+            std::cout << "Answered Questions: "
+                      << manager.getQuestionCount() - manager.getRemainingCount()
+                      << "\n";
+        }
+        else if (choice == 3)
+        {
+            viewResponses();
+        }
+        else if (choice == 4)
+        {
+            resetProgress(manager);
+        }
+        else if (choice == 5)
+        {
+            std::cout << "\nGoodbye!\n";
+        }
+        else
+        {
+            std::cout << "\nInvalid choice. Please choose 1-5.\n";
+        }
+    }
 
     return 0;
 }

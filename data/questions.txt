@@ -2027,9 +2027,9 @@
 2027|Are you a drama king or queen?
 2028|Have you ever been in a fight?
 2029|What do you dislike most about the current city you live in?
-2030|ill Do you let your conscience guide you?
+2030|Do you let your conscience guide you?
 2031|Have you ever wielded a sword?
-2032|e113 When have you answered someone's cry for help?
+2032|When have you answered someone's cry for help?
 2033|Do you often help people when they ask or does there have to be something in it for you?
 2034|What is the most unusual name you've ever heard of?
 2035|Do you think you could write a song, if so what would it be about?
@@ -2040,9 +2040,9 @@
 2040|What is some of the most important work being researched on our planet in your opinion Pie2 Have you ever won a giant sized toy from a fair?
 2041|Have you ever been caught in a love triangle, if so with who?
 2042|Do you know the valedictorian of your high school class and where are they now?
-2043|DW, What is your most used word?
+2043|What is your most used word?
 2044|Do you prefer flowers or plants or both?
-2045|/ Do you like cheese, if so what is your favorite kind?
+2045|Do you like cheese, if so what is your favorite kind?
 2046|Do you think there should be special laws for the paparazzi?
 2047|Are you introverted or extroverted?
 2048|Do you think some people in certain situations might be more valuable than others?
@@ -2052,9 +2052,9 @@
 2052|Do you do what you say you're going to do?
 2053|What would you hire a private detective for?
 2054|What is childish but you still do it anyway?
-2055|Eloy, What is one thing you’d recommend people not try or do?
+2055|What is one thing you’d recommend people not try or do?
 2056|Whom do you secretly envy?
-2057|l39 If you found a purse with $100 on the floor, would you turn it in?
+2057|If you found a purse with $100 on the floor, would you turn it in?
 2058|Do you have a favorite figurine or action figure, if so who is it of?
 2059|Do you buy recycled products and goods and how do you feel about it?
 2060|What villain from history do you think was misunderstood?
@@ -2066,8 +2066,8 @@
 2066|What do you do when you get really angry?
 2067|If you could do something all over again, what would it be?
 2068|Have you ever received or bought a gag gift, if so what was it?
-2069|Pais§ Life is too short so you need to stop and... What is one thing you will never give up on?
-2070|Calles| What is your favorite gum?
+2069|Life is too short so you need to stop and... What is one thing you will never give up on?
+2070|What is your favorite gum?
 2071|What table manner do people lack that drives you crazy?
 2072|Do you need to learn how to say NO more often?
 2073|What do you think every couple should do on their honeymoon?
@@ -2122,7 +2122,7 @@
 2122|Is there a family member who you don’t associate with anymore, and why?
 2123|What do you think is the most beautiful word?
 2124|Have you ever ridden on a motorcycle, would you?
-2125|k2 Are you friends with any of your ex’s?
+2125|Are you friends with any of your ex’s?
 2126|Who would you want to be stranded on an island with?
 2127|What are you good at guessing?
 2128|What does “The American Dream” mean to you?
