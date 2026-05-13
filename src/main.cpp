@@ -26,7 +26,10 @@ int main()
     std::string answer;
     std::getline(std::cin, answer);
 
+    manager.saveResponse("data/responses.txt", question, answer);
+
     manager.markCurrentQuestionAnswered();
+
     manager.saveProgress("data/progress.txt");
 
     std::cout << "\nAnswer saved later. Progress updated.\n";

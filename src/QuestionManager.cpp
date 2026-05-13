@@ -147,6 +147,26 @@ void QuestionManager::markCurrentQuestionAnswered()
     currentIndex = -1;
 }
 
+bool QuestionManager::saveResponse(const std::string& filename, const std::string& question, const std::string& answer)
+{
+    std::ofstream file(filename, std::ios::app);
+
+    if (!file)
+    {
+        return false;
+    }
+
+    file << "QUESTION:\n";
+    file << question << "\n\n";
+
+    file << "ANSWER:\n";
+    file << answer << "\n\n";
+
+    file << "----------------------------------------\n\n";
+
+    return true;
+}
+
 bool QuestionManager::hasQuestionsLeft() const
 {
     return !availableIndexes.empty();
