@@ -67,7 +67,7 @@ void searchResponseByQuestionNumber()
 
     while (std::getline(file, line))
     {
-        if (line == target)
+        if (line.find(target) != std::string::npos)
         {
             found = true;
 
