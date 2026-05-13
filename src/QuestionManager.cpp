@@ -42,7 +42,12 @@ bool QuestionManager::loadQuestions(const std::string& filename)
         }
         else
         {
-            questions.push_back(line);
+            Question question;
+
+            question.id = static_cast<int>(questions.size()) + 1;
+            question.text = line;
+
+            questions.push_back(question);
         }
     }
 
@@ -110,7 +115,7 @@ bool QuestionManager::saveProgress(const std::string& filename)
     return true;
 }
 
-std::string QuestionManager::getRandomQuestion()
+Question QuestionManager::getRandomQuestion()
 {
     if (availableIndexes.empty())
     {
@@ -151,7 +156,9 @@ void QuestionManager::markCurrentQuestionAnswered()
     currentIndex = -1;
 }
 
-bool QuestionManager::saveResponse(const std::string& filename, const std::string& question, const std::string& answer)
+bool QuestionManager::saveResponse(const std::string& filename,
+                                   const std::string& question,
+                                   const std::string& answer)
 {
     std::ofstream file(filename, std::ios::app);
 
