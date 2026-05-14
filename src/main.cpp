@@ -29,7 +29,7 @@ int main()
     title.setString("GoofyGoober Journal");
     title.setCharacterSize(48);
     title.setFillColor(sf::Color::White);
-    title.setPosition({350.f, 80.f});
+    title.setPosition({300.f, 50.f});
 
     sf::Text subtitle(font);
     subtitle.setString("A Personal Question & Reflection Experience");
@@ -38,14 +38,14 @@ int main()
     subtitle.setPosition({320.f, 150.f});
 
     sf::Text questionText(font);
-    questionText.setCharacterSize(26);
+    questionText.setCharacterSize(22);
     questionText.setFillColor(sf::Color::White);
-    questionText.setPosition({150.f, 210.f});
+    questionText.setPosition({120.f, 260.f});
     questionText.setString(screenMessage);
 
     sf::RectangleShape button({300.f, 70.f});
-    button.setPosition({490.f, 300.f});
-    button.setFillColor(sf::Color(60, 60, 90));
+    button.setPosition({490.f, 500.f});
+    buttonText.setPosition({530.f, 518.f});
 
     sf::Text buttonText(font);
     buttonText.setString("Get Random Question");
@@ -93,12 +93,7 @@ int main()
             }
         }
 
-        sf::RectangleShape testBox({300.f, 120.f});
-        testBox.setPosition({100.f, 100.f});
-        testBox.setFillColor(sf::Color::Red);
-
         window.clear(sf::Color(25, 25, 35));
-        window.draw(testBox);
 
         window.draw(title);
         window.draw(subtitle);
