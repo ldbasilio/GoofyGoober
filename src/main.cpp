@@ -89,14 +89,15 @@ int main()
     questionText.setPosition({120.f, 260.f});
     questionText.setString("Question #" + std::to_string(currentQuestion.id) + ":\n" + wrapText(currentQuestion.text, 75));
 
-    sf::RectangleShape button({300.f, 70.f});    button.setPosition({490.f, 500.f});
+    sf::RectangleShape button({300.f, 70.f});    
+    button.setPosition({290.f, 550.f});
     button.setFillColor(sf::Color(60, 60, 90));
 
     sf::Text buttonText(font);
     buttonText.setString("Get Random Question");
     buttonText.setCharacterSize(28);
     buttonText.setFillColor(sf::Color::White);
-    buttonText.setPosition({530.f, 518.f});
+    buttonText.setPosition({330.f, 568.f});
 
     QuestionManager manager;
 
@@ -116,14 +117,14 @@ int main()
     answerText.setString("Click here to type your response...");
 
     sf::RectangleShape saveButton({260.f, 60.f});
-    saveButton.setPosition({510.f, 540.f});
+    saveButton.setPosition({730.f, 550.f});
     saveButton.setFillColor(sf::Color(60, 90, 70));
 
     sf::Text saveButtonText(font);
     saveButtonText.setString("Save Answer");
     saveButtonText.setCharacterSize(26);
     saveButtonText.setFillColor(sf::Color::White);
-    saveButtonText.setPosition({555.f, 555.f});
+    saveButtonText.setPosition({775.f, 565.f});
 
     if (!manager.loadQuestions("data/questions.txt"))
     {
@@ -149,6 +150,28 @@ int main()
                     static_cast<float>(mousePressed->position.x),
                     static_cast<float>(mousePressed->position.y)
                 );
+            
+            if (answerBoxActive)
+                {
+                    if (const auto* textEntered = event->getIf<sf::Event::TextEntered>())
+                    {
+                        char32_t unicode = textEntered->unicode;
+
+                        if (unicode == 8)
+                        {
+                            if (!userAnswer.empty())
+                            {
+                                userAnswer.pop_back();
+                            }
+                        }
+                        else if (unicode >= 32 && unicode < 127)
+                        {
+                            userAnswer += static_cast<char>(unicode);
+                        }
+
+                        answerText.setString(wrapText(userAnswer, 80));
+                    }
+                }    
 
                 if (button.getGlobalBounds().contains(mousePos))
                 {
@@ -186,27 +209,6 @@ int main()
                         userAnswer.clear();
                         answerText.setString("Click here to type your response...");
                         hasCurrentQuestion = false;
-                    }
-                }
-                if (answerBoxActive)
-                {
-                    if (const auto* textEntered = event->getIf<sf::Event::TextEntered>())
-                    {
-                        char32_t unicode = textEntered->unicode;
-
-                        if (unicode == 8)
-                        {
-                            if (!userAnswer.empty())
-                            {
-                                userAnswer.pop_back();
-                            }
-                        }
-                        else if (unicode >= 32 && unicode < 127)
-                        {
-                            userAnswer += static_cast<char>(unicode);
-                        }
-
-                        answerText.setString(wrapText(userAnswer, 80));
                     }
                 }
             }
