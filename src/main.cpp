@@ -53,8 +53,17 @@ std::string wrapText(const std::string& text, int maxLineLength)
     return result;
 }
 
+enum class AppScreen
+{
+    MainMenu,
+    QuestionScreen,
+    StatsScreen
+};
+
 int main()
 {
+    AppScreen currentScreen = AppScreen::MainMenu;
+
     sf::RenderWindow window(sf::VideoMode({1280, 720}), "GoofyGoober Journal");
 
     sf::Font font;
@@ -118,6 +127,11 @@ int main()
     answerText.setPosition({210.f, 410.f});
     answerText.setString("Click here to type your response...");
 
+    sf::Text statsText(font);
+    statsText.setCharacterSize(28);
+    statsText.setFillColor(sf::Color::White);
+    statsText.setPosition({350.f, 300.f});
+
     sf::RectangleShape saveButton({260.f, 60.f});
     saveButton.setPosition({730.f, 550.f});
     saveButton.setFillColor(sf::Color(60, 90, 70));
@@ -127,6 +141,16 @@ int main()
     saveButtonText.setCharacterSize(26);
     saveButtonText.setFillColor(sf::Color::White);
     saveButtonText.setPosition({775.f, 565.f});
+
+    sf::RectangleShape statsButton({300.f, 70.f});
+    statsButton.setPosition({510.f, 640.f});
+    statsButton.setFillColor(sf::Color(70, 70, 110));
+
+    sf::Text statsButtonText(font);
+    statsButtonText.setString("View Statistics");
+    statsButtonText.setCharacterSize(26);
+    statsButtonText.setFillColor(sf::Color::White);
+    statsButtonText.setPosition({555.f, 658.f});
 
     while (window.isOpen())
     {
@@ -153,6 +177,8 @@ int main()
                         "Question #" + std::to_string(currentQuestion.id) + ":\n" +
                         wrapText(currentQuestion.text, 75)
                     );
+
+                    currentScreen = AppScreen::QuestionScreen;
                 }
 
                 if (answerBox.getGlobalBounds().contains(mousePos))
@@ -183,6 +209,11 @@ int main()
                         hasCurrentQuestion = false;
                     }
                 }
+
+                if (statsButton.getGlobalBounds().contains(mousePos))
+                {
+                    currentScreen = AppScreen::StatsScreen;
+                }
             }
 
             if (answerBoxActive)
@@ -208,20 +239,44 @@ int main()
             }
         }
 
+        statsText.setString("Total Questions: " + std::to_string(manager.getQuestionCount()) + "\nRemaining Questions: " + std::to_string(manager.getRemainingCount()) + "\nAnswered Questions: " + std::to_string(manager.getQuestionCount() - manager.getRemainingCount()));
+        
         window.clear(sf::Color(25, 25, 35));
 
         window.draw(title);
         window.draw(subtitle);
-        window.draw(questionText);
 
-        window.draw(answerBox);
-        window.draw(answerText);
+        if (currentScreen == AppScreen::MainMenu)
+        {
+            window.draw(questionButton);
+            window.draw(questionButtonText);
 
-        window.draw(questionButton);
-        window.draw(questionButtonText);
+            window.draw(statsButton);
+            window.draw(statsButtonText);
+        }
+        else if (currentScreen == AppScreen::QuestionScreen)
+        {
+            window.draw(questionText);
 
-        window.draw(saveButton);
-        window.draw(saveButtonText);
+            window.draw(answerBox);
+            window.draw(answerText);
+
+            window.draw(questionButton);
+            window.draw(questionButtonText);
+
+            window.draw(saveButton);
+            window.draw(saveButtonText);
+
+            window.draw(statsButton);
+            window.draw(statsButtonText);
+        }
+        else if (currentScreen == AppScreen::StatsScreen)
+        {
+            window.draw(statsText);
+
+            window.draw(questionButton);
+            window.draw(questionButtonText);
+        }
 
         window.display();
     }
