@@ -3,6 +3,9 @@
 #include <fstream>
 #include <random>
 #include <sstream>
+#include <chrono>
+#include <ctime>
+#include <iomanip>
 
 QuestionManager::QuestionManager()
 {
@@ -167,8 +170,14 @@ bool QuestionManager::saveResponse(const std::string& filename,
         return false;
     }
 
+    auto now = std::chrono::system_clock::now();
+    std::time_t currentTime = std::chrono::system_clock::to_time_t(now);
+
     file << "QUESTION #" << question.id << ":\n";
     file << question.text << "\n\n";
+
+    file << "DATE:\n";
+    file << std::put_time(std::localtime(&currentTime), "%Y-%m-%d %I:%M %p") << "\n\n";
 
     file << "ANSWER:\n";
     file << answer << "\n\n";
