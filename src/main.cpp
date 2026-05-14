@@ -2,19 +2,18 @@
 #include <fstream>
 #include <string>
 #include <limits>
+#include <iomanip>
 #include "QuestionManager.h"
 
 void showMenu()
 {
-    std::cout << "\n==============================\n";
-    std::cout << "      GoofyGoober Journal\n";
-    std::cout << "==============================\n";
     std::cout << "1. Get Random Question\n";
     std::cout << "2. View Progress\n";
     std::cout << "3. View Previous Responses\n";
     std::cout << "4. Search Response by Question Number\n";
-    std::cout << "5. Reset Progress\n";
-    std::cout << "6. Exit\n";
+    std::cout << "5. View Statistics\n";
+    std::cout << "6. Reset Progress\n";
+    std::cout << "7. Exit\n";
 }
 
 void viewResponses()
@@ -165,6 +164,27 @@ void resetProgress(QuestionManager& manager)
     std::cout << "\nProgress reset. All questions are available again.\n";
 }
 
+void viewStatistics(QuestionManager& manager)
+{
+    int totalQuestions = manager.getQuestionCount();
+    int remainingQuestions = manager.getRemainingCount();
+    int answeredQuestions = totalQuestions - remainingQuestions;
+
+    double completion = 0.0;
+
+    if (totalQuestions > 0)
+    {
+        completion = (static_cast<double>(answeredQuestions) / totalQuestions) * 100.0;
+    }
+
+    std::cout << "\n========== Journal Statistics ==========\n";
+    std::cout << "Total Questions: " << totalQuestions << "\n";
+    std::cout << "Answered Questions: " << answeredQuestions << "\n";
+    std::cout << "Remaining Questions: " << remainingQuestions << "\n";
+    std::cout << "Completion: " << std::fixed << std::setprecision(2)
+              << completion << "%\n";
+}
+
 int main()
 {
     QuestionManager manager;
@@ -179,7 +199,7 @@ int main()
 
     int choice = 0;
 
-    while (choice != 6)
+    while (choice != 7)
     {
         showMenu();
 
@@ -215,15 +235,19 @@ int main()
         }
         else if (choice == 5)
         {
-            resetProgress(manager);
+            viewStatistics(manager);
         }
         else if (choice == 6)
+        {
+            resetProgress(manager);
+        }
+        else if (choice == 7)
         {
             std::cout << "\nGoodbye!\n";
         }
         else
         {
-            std::cout << "\nInvalid choice. Please choose 1-6.\n";
+            std::cout << "\nInvalid choice. Please choose 1-7.\n";
         }
     }
 
