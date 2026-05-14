@@ -474,14 +474,14 @@
 474|Do you ever watch movies with subtitles?
 475|If you were in a band, what instrument/role would you play?
 476|What is something you’re doing you never thought you would do?
-477|Working What is the weirdest food combination craving you’ve ever had?
+477|What is the weirdest food combination craving you’ve ever had?
 478|Have you ever had to make a big decision without enough information, if so what did you do?
 479|If you were having lunch with the Queen of England, what would you talk to her about?
 480|What reoccurring lie did you always tell your parents or teachers?
 481|Do you still watch cartoons, if so which one/s?
 482|What is the worst thing about being your gender?
 483|Have you ever made a homemade gift for someone, if so what?
-484|hours a week is too much for me. Can you use chopsticks when you eat or have you tried?
+484|Can you use chopsticks when you eat or have you tried?
 485|What movie had the best special effects?
 486|Have you ever been suspended from work or school, if so for what?
 487|Have you ever cried at a movie?

@@ -41,17 +41,16 @@ int main()
     questionText.setCharacterSize(22);
     questionText.setFillColor(sf::Color::White);
     questionText.setPosition({120.f, 260.f});
-    questionText.setString(screenMessage);
+    questionText.setString("Question #" + std::to_string(currentQuestion.id) + ":\n" + currentQuestion.text);
 
-    sf::RectangleShape button({300.f, 70.f});
-    button.setPosition({490.f, 500.f});
-    buttonText.setPosition({530.f, 518.f});
+    sf::RectangleShape button({300.f, 70.f});    button.setPosition({490.f, 500.f});
+    button.setFillColor(sf::Color(60, 60, 90));
 
     sf::Text buttonText(font);
     buttonText.setString("Get Random Question");
     buttonText.setCharacterSize(28);
     buttonText.setFillColor(sf::Color::White);
-    buttonText.setPosition({530.f, 318.f});
+    buttonText.setPosition({530.f, 518.f});
 
     QuestionManager manager;
 
