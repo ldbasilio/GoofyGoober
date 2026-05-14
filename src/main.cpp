@@ -1,7 +1,6 @@
 #include <SFML/Graphics.hpp>
 #include <iostream>
 
-#include "Button.h"
 #include "QuestionManager.h"
 
 Question currentQuestion;
@@ -56,12 +55,7 @@ std::string wrapText(const std::string& text, int maxLineLength)
 
 int main()
 {
-    sf::RenderWindow window(
-        sf::VideoMode({1280, 720}),
-        "GoofyGoober Journal"
-    );
-
-    std::cout << "UPDATED UI CODE IS RUNNING\n";
+    sf::RenderWindow window(sf::VideoMode({1280, 720}), "GoofyGoober Journal");
 
     sf::Font font;
 
@@ -70,6 +64,16 @@ int main()
         std::cout << "Error loading font.\n";
         return 1;
     }
+
+    QuestionManager manager;
+
+    if (!manager.loadQuestions("data/questions.txt"))
+    {
+        std::cout << "Error: Could not load questions.txt\n";
+        return 1;
+    }
+
+    manager.loadProgress("data/progress.txt");
 
     sf::Text title(font);
     title.setString("GoofyGoober Journal");
@@ -87,19 +91,17 @@ int main()
     questionText.setCharacterSize(22);
     questionText.setFillColor(sf::Color::White);
     questionText.setPosition({120.f, 260.f});
-    questionText.setString("Question #" + std::to_string(currentQuestion.id) + ":\n" + wrapText(currentQuestion.text, 75));
+    questionText.setString(screenMessage);
 
-    sf::RectangleShape button({300.f, 70.f});    
-    button.setPosition({290.f, 550.f});
-    button.setFillColor(sf::Color(60, 60, 90));
+    sf::RectangleShape questionButton({300.f, 70.f});
+    questionButton.setPosition({290.f, 550.f});
+    questionButton.setFillColor(sf::Color(60, 60, 90));
 
-    sf::Text buttonText(font);
-    buttonText.setString("Get Random Question");
-    buttonText.setCharacterSize(28);
-    buttonText.setFillColor(sf::Color::White);
-    buttonText.setPosition({330.f, 568.f});
-
-    QuestionManager manager;
+    sf::Text questionButtonText(font);
+    questionButtonText.setString("Get Random Question");
+    questionButtonText.setCharacterSize(28);
+    questionButtonText.setFillColor(sf::Color::White);
+    questionButtonText.setPosition({330.f, 568.f});
 
     std::string userAnswer;
     bool answerBoxActive = false;
@@ -126,107 +128,103 @@ int main()
     saveButtonText.setFillColor(sf::Color::White);
     saveButtonText.setPosition({775.f, 565.f});
 
-    if (!manager.loadQuestions("data/questions.txt"))
-    {
-        std::cout << "Error: Could not load questions.txt\n";
-        return 1;
-    }
-
-    manager.loadProgress("data/progress.txt");
-
     while (window.isOpen())
-{
-    while (const std::optional event = window.pollEvent())
     {
-        if (event->is<sf::Event::Closed>())
+        while (const std::optional event = window.pollEvent())
         {
-            window.close();
-        }
-
-        if (const auto* mousePressed =
-            event->getIf<sf::Event::MouseButtonPressed>())
-        {
-            sf::Vector2f mousePos(
-                static_cast<float>(mousePressed->position.x),
-                static_cast<float>(mousePressed->position.y)
-            );
-
-            if (button.getGlobalBounds().contains(mousePos))
+            if (event->is<sf::Event::Closed>())
             {
-                currentQuestion = manager.getRandomQuestion();
-                hasCurrentQuestion = true;
+                window.close();
+            }
 
-                questionText.setString(
-                    "Question #" + std::to_string(currentQuestion.id) + ":\n" +
-                    wrapText(currentQuestion.text, 75)
+            if (const auto* mousePressed = event->getIf<sf::Event::MouseButtonPressed>())
+            {
+                sf::Vector2f mousePos(
+                    static_cast<float>(mousePressed->position.x),
+                    static_cast<float>(mousePressed->position.y)
                 );
-            }
 
-            if (answerBox.getGlobalBounds().contains(mousePos))
-            {
-                answerBoxActive = true;
-
-                if (userAnswer.empty())
+                if (questionButton.getGlobalBounds().contains(mousePos))
                 {
-                    answerText.setString("");
+                    currentQuestion = manager.getRandomQuestion();
+                    hasCurrentQuestion = true;
+
+                    questionText.setString(
+                        "Question #" + std::to_string(currentQuestion.id) + ":\n" +
+                        wrapText(currentQuestion.text, 75)
+                    );
                 }
-            }
-            else
-            {
-                answerBoxActive = false;
-            }
 
-            if (saveButton.getGlobalBounds().contains(mousePos))
-            {
-                if (hasCurrentQuestion && !userAnswer.empty())
+                if (answerBox.getGlobalBounds().contains(mousePos))
                 {
-                    manager.saveResponse("data/responses.txt", currentQuestion, userAnswer);
-                    manager.markCurrentQuestionAnswered();
-                    manager.saveProgress("data/progress.txt");
+                    answerBoxActive = true;
 
-                    questionText.setString("Answer saved. Click for another question.");
-                    userAnswer.clear();
-                    answerText.setString("Click here to type your response...");
-                    hasCurrentQuestion = false;
-                }
-            }
-        }
-
-        if (answerBoxActive)
-        {
-            if (const auto* textEntered = event->getIf<sf::Event::TextEntered>())
-            {
-                char32_t unicode = textEntered->unicode;
-
-                if (unicode == 8)
-                {
-                    if (!userAnswer.empty())
+                    if (userAnswer.empty())
                     {
-                        userAnswer.pop_back();
+                        answerText.setString("");
                     }
                 }
-                else if (unicode >= 32 && unicode < 127)
+                else
                 {
-                    userAnswer += static_cast<char>(unicode);
+                    answerBoxActive = false;
                 }
 
-                answerText.setString(wrapText(userAnswer, 80));
+                if (saveButton.getGlobalBounds().contains(mousePos))
+                {
+                    if (hasCurrentQuestion && !userAnswer.empty())
+                    {
+                        manager.saveResponse("data/responses.txt", currentQuestion, userAnswer);
+                        manager.markCurrentQuestionAnswered();
+                        manager.saveProgress("data/progress.txt");
+
+                        questionText.setString("Answer saved. Click for another question.");
+                        userAnswer.clear();
+                        answerText.setString("Click here to type your response...");
+                        hasCurrentQuestion = false;
+                    }
+                }
+            }
+
+            if (answerBoxActive)
+            {
+                if (const auto* textEntered = event->getIf<sf::Event::TextEntered>())
+                {
+                    char32_t unicode = textEntered->unicode;
+
+                    if (unicode == 8)
+                    {
+                        if (!userAnswer.empty())
+                        {
+                            userAnswer.pop_back();
+                        }
+                    }
+                    else if (unicode >= 32 && unicode < 127)
+                    {
+                        userAnswer += static_cast<char>(unicode);
+                    }
+
+                    answerText.setString(wrapText(userAnswer, 80));
+                }
             }
         }
+
+        window.clear(sf::Color(25, 25, 35));
+
+        window.draw(title);
+        window.draw(subtitle);
+        window.draw(questionText);
+
+        window.draw(answerBox);
+        window.draw(answerText);
+
+        window.draw(questionButton);
+        window.draw(questionButtonText);
+
+        window.draw(saveButton);
+        window.draw(saveButtonText);
+
+        window.display();
     }
 
-    window.clear(sf::Color(25, 25, 35));
-
-    window.draw(title);
-    window.draw(subtitle);
-    window.draw(questionText);
-    window.draw(button);
-    window.draw(buttonText);
-
-    window.draw(answerBox);
-    window.draw(answerText);
-    window.draw(saveButton);
-    window.draw(saveButtonText);
-
-    window.display();
+    return 0;
 }
