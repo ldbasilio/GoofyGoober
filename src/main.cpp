@@ -8,6 +8,52 @@ Question currentQuestion;
 bool hasCurrentQuestion = false;
 std::string screenMessage = "Choose an option to begin.";
 
+std::string wrapText(const std::string& text, int maxLineLength)
+{
+    std::string result;
+    std::string currentLine;
+    std::string word;
+
+    for (char character : text)
+    {
+        if (character == ' ')
+        {
+            if (static_cast<int>(currentLine.length() + word.length()) > maxLineLength)
+            {
+                result += currentLine + "\n";
+                currentLine = word + " ";
+            }
+            else
+            {
+                currentLine += word + " ";
+            }
+
+            word.clear();
+        }
+        else
+        {
+            word += character;
+        }
+    }
+
+    if (!word.empty())
+    {
+        if (static_cast<int>(currentLine.length() + word.length()) > maxLineLength)
+        {
+            result += currentLine + "\n";
+            currentLine = word;
+        }
+        else
+        {
+            currentLine += word;
+        }
+    }
+
+    result += currentLine;
+
+    return result;
+}
+
 int main()
 {
     sf::RenderWindow window(
@@ -41,7 +87,7 @@ int main()
     questionText.setCharacterSize(22);
     questionText.setFillColor(sf::Color::White);
     questionText.setPosition({120.f, 260.f});
-    questionText.setString("Question #" + std::to_string(currentQuestion.id) + ":\n" + currentQuestion.text);
+    questionText.setString("Question #" + std::to_string(currentQuestion.id) + ":\n" + wrapText(currentQuestion.text, 75));
 
     sf::RectangleShape button({300.f, 70.f});    button.setPosition({490.f, 500.f});
     button.setFillColor(sf::Color(60, 60, 90));
