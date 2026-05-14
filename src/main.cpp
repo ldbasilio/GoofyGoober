@@ -1,6 +1,13 @@
 #include <SFML/Graphics.hpp>
 #include <iostream>
 
+#include "Button.h"
+#include "QuestionManager.h"
+
+Question currentQuestion;
+bool hasCurrentQuestion = false;
+std::string screenMessage = "Choose an option to begin.";
+
 int main()
 {
     sf::RenderWindow window(
@@ -19,7 +26,7 @@ int main()
     }
 
     sf::Text title(font);
-    title.setString("LOCAL BUILD TEST");
+    title.setString("GoofyGoober Journal");
     title.setCharacterSize(48);
     title.setFillColor(sf::Color::White);
     title.setPosition({350.f, 80.f});
@@ -30,6 +37,12 @@ int main()
     subtitle.setFillColor(sf::Color(180, 180, 180));
     subtitle.setPosition({320.f, 150.f});
 
+    sf::Text questionText(font);
+    questionText.setCharacterSize(26);
+    questionText.setFillColor(sf::Color::White);
+    questionText.setPosition({150.f, 210.f});
+    questionText.setString(screenMessage);
+
     sf::RectangleShape button({300.f, 70.f});
     button.setPosition({490.f, 300.f});
     button.setFillColor(sf::Color(60, 60, 90));
@@ -39,6 +52,16 @@ int main()
     buttonText.setCharacterSize(28);
     buttonText.setFillColor(sf::Color::White);
     buttonText.setPosition({530.f, 318.f});
+
+    QuestionManager manager;
+
+    if (!manager.loadQuestions("data/questions.txt"))
+    {
+        std::cout << "Error: Could not load questions.txt\n";
+        return 1;
+    }
+
+    manager.loadProgress("data/progress.txt");
 
     while (window.isOpen())
     {
@@ -59,7 +82,13 @@ int main()
 
                 if (button.getGlobalBounds().contains(mousePos))
                 {
-                    std::cout << "Button clicked!\n";
+                    currentQuestion = manager.getRandomQuestion();
+                    hasCurrentQuestion = true;
+
+                    questionText.setString(
+                        "Question #" + std::to_string(currentQuestion.id) + ":\n" +
+                        currentQuestion.text
+                    );
                 }
             }
         }
@@ -73,6 +102,7 @@ int main()
 
         window.draw(title);
         window.draw(subtitle);
+        window.draw(questionText);
         window.draw(button);
         window.draw(buttonText);
 
