@@ -7,6 +7,9 @@
 
 void showMenu()
 {
+    std::cout << "\n==============================\n";
+    std::cout << "      GoofyGoober Journal\n";
+    std::cout << "==============================\n";
     std::cout << "1. Get Random Question\n";
     std::cout << "2. View Progress\n";
     std::cout << "3. View Previous Responses\n";
@@ -14,6 +17,7 @@ void showMenu()
     std::cout << "5. View Statistics\n";
     std::cout << "6. Reset Progress\n";
     std::cout << "7. Exit\n";
+    std::cout << "Choice: ";
 }
 
 void viewResponses()
