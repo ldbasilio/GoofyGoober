@@ -19,7 +19,7 @@ int main()
     }
 
     sf::Text title(font);
-    title.setString("GoofyGoober Journal");
+    title.setString("LOCAL BUILD TEST");
     title.setCharacterSize(48);
     title.setFillColor(sf::Color::White);
     title.setPosition({350.f, 80.f});
