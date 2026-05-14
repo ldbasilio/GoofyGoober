@@ -100,6 +100,31 @@ int main()
 
     QuestionManager manager;
 
+    std::string userAnswer;
+    bool answerBoxActive = false;
+
+    sf::RectangleShape answerBox({900.f, 120.f});
+    answerBox.setPosition({190.f, 390.f});
+    answerBox.setFillColor(sf::Color(35, 35, 50));
+    answerBox.setOutlineColor(sf::Color(90, 90, 130));
+    answerBox.setOutlineThickness(2.f);
+
+    sf::Text answerText(font);
+    answerText.setCharacterSize(22);
+    answerText.setFillColor(sf::Color::White);
+    answerText.setPosition({210.f, 410.f});
+    answerText.setString("Click here to type your response...");
+
+    sf::RectangleShape saveButton({260.f, 60.f});
+    saveButton.setPosition({510.f, 540.f});
+    saveButton.setFillColor(sf::Color(60, 90, 70));
+
+    sf::Text saveButtonText(font);
+    saveButtonText.setString("Save Answer");
+    saveButtonText.setCharacterSize(26);
+    saveButtonText.setFillColor(sf::Color::White);
+    saveButtonText.setPosition({555.f, 555.f});
+
     if (!manager.loadQuestions("data/questions.txt"))
     {
         std::cout << "Error: Could not load questions.txt\n";
@@ -135,6 +160,55 @@ int main()
                         currentQuestion.text
                     );
                 }
+                if (answerBox.getGlobalBounds().contains(mousePos))
+                {
+                    answerBoxActive = true;
+
+                    if (userAnswer.empty())
+                    {
+                        answerText.setString("");
+                    }
+                }
+                else
+                {
+                    answerBoxActive = false;
+                }
+
+                if (saveButton.getGlobalBounds().contains(mousePos))
+                {
+                    if (hasCurrentQuestion && !userAnswer.empty())
+                    {
+                        manager.saveResponse("data/responses.txt", currentQuestion, userAnswer);
+                        manager.markCurrentQuestionAnswered();
+                        manager.saveProgress("data/progress.txt");
+
+                        questionText.setString("Answer saved. Click for another question.");
+                        userAnswer.clear();
+                        answerText.setString("Click here to type your response...");
+                        hasCurrentQuestion = false;
+                    }
+                }
+                if (answerBoxActive)
+                {
+                    if (const auto* textEntered = event->getIf<sf::Event::TextEntered>())
+                    {
+                        char32_t unicode = textEntered->unicode;
+
+                        if (unicode == 8)
+                        {
+                            if (!userAnswer.empty())
+                            {
+                                userAnswer.pop_back();
+                            }
+                        }
+                        else if (unicode >= 32 && unicode < 127)
+                        {
+                            userAnswer += static_cast<char>(unicode);
+                        }
+
+                        answerText.setString(wrapText(userAnswer, 80));
+                    }
+                }
             }
         }
 
@@ -145,6 +219,11 @@ int main()
         window.draw(questionText);
         window.draw(button);
         window.draw(buttonText);
+
+        window.draw(answerBox);
+        window.draw(answerText);
+        window.draw(saveButton);
+        window.draw(saveButtonText);
 
         window.display();
     }
