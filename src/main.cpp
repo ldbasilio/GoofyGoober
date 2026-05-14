@@ -135,100 +135,98 @@ int main()
     manager.loadProgress("data/progress.txt");
 
     while (window.isOpen())
+{
+    while (const std::optional event = window.pollEvent())
     {
-        while (const std::optional event = window.pollEvent())
+        if (event->is<sf::Event::Closed>())
         {
-            if (event->is<sf::Event::Closed>())
+            window.close();
+        }
+
+        if (const auto* mousePressed =
+            event->getIf<sf::Event::MouseButtonPressed>())
+        {
+            sf::Vector2f mousePos(
+                static_cast<float>(mousePressed->position.x),
+                static_cast<float>(mousePressed->position.y)
+            );
+
+            if (button.getGlobalBounds().contains(mousePos))
             {
-                window.close();
+                currentQuestion = manager.getRandomQuestion();
+                hasCurrentQuestion = true;
+
+                questionText.setString(
+                    "Question #" + std::to_string(currentQuestion.id) + ":\n" +
+                    wrapText(currentQuestion.text, 75)
+                );
             }
 
-            if (const auto* mousePressed =
-                event->getIf<sf::Event::MouseButtonPressed>())
+            if (answerBox.getGlobalBounds().contains(mousePos))
             {
-                sf::Vector2f mousePos(
-                    static_cast<float>(mousePressed->position.x),
-                    static_cast<float>(mousePressed->position.y)
-                );
-            
-            if (answerBoxActive)
+                answerBoxActive = true;
+
+                if (userAnswer.empty())
                 {
-                    if (const auto* textEntered = event->getIf<sf::Event::TextEntered>())
-                    {
-                        char32_t unicode = textEntered->unicode;
-
-                        if (unicode == 8)
-                        {
-                            if (!userAnswer.empty())
-                            {
-                                userAnswer.pop_back();
-                            }
-                        }
-                        else if (unicode >= 32 && unicode < 127)
-                        {
-                            userAnswer += static_cast<char>(unicode);
-                        }
-
-                        answerText.setString(wrapText(userAnswer, 80));
-                    }
-                }    
-
-                if (button.getGlobalBounds().contains(mousePos))
-                {
-                    currentQuestion = manager.getRandomQuestion();
-                    hasCurrentQuestion = true;
-
-                    questionText.setString(
-                        "Question #" + std::to_string(currentQuestion.id) + ":\n" +
-                        currentQuestion.text
-                    );
+                    answerText.setString("");
                 }
-                if (answerBox.getGlobalBounds().contains(mousePos))
-                {
-                    answerBoxActive = true;
+            }
+            else
+            {
+                answerBoxActive = false;
+            }
 
-                    if (userAnswer.empty())
-                    {
-                        answerText.setString("");
-                    }
-                }
-                else
+            if (saveButton.getGlobalBounds().contains(mousePos))
+            {
+                if (hasCurrentQuestion && !userAnswer.empty())
                 {
-                    answerBoxActive = false;
-                }
+                    manager.saveResponse("data/responses.txt", currentQuestion, userAnswer);
+                    manager.markCurrentQuestionAnswered();
+                    manager.saveProgress("data/progress.txt");
 
-                if (saveButton.getGlobalBounds().contains(mousePos))
-                {
-                    if (hasCurrentQuestion && !userAnswer.empty())
-                    {
-                        manager.saveResponse("data/responses.txt", currentQuestion, userAnswer);
-                        manager.markCurrentQuestionAnswered();
-                        manager.saveProgress("data/progress.txt");
-
-                        questionText.setString("Answer saved. Click for another question.");
-                        userAnswer.clear();
-                        answerText.setString("Click here to type your response...");
-                        hasCurrentQuestion = false;
-                    }
+                    questionText.setString("Answer saved. Click for another question.");
+                    userAnswer.clear();
+                    answerText.setString("Click here to type your response...");
+                    hasCurrentQuestion = false;
                 }
             }
         }
 
-        window.clear(sf::Color(25, 25, 35));
+        if (answerBoxActive)
+        {
+            if (const auto* textEntered = event->getIf<sf::Event::TextEntered>())
+            {
+                char32_t unicode = textEntered->unicode;
 
-        window.draw(title);
-        window.draw(subtitle);
-        window.draw(questionText);
-        window.draw(button);
-        window.draw(buttonText);
+                if (unicode == 8)
+                {
+                    if (!userAnswer.empty())
+                    {
+                        userAnswer.pop_back();
+                    }
+                }
+                else if (unicode >= 32 && unicode < 127)
+                {
+                    userAnswer += static_cast<char>(unicode);
+                }
 
-        window.draw(answerBox);
-        window.draw(answerText);
-        window.draw(saveButton);
-        window.draw(saveButtonText);
-
-        window.display();
+                answerText.setString(wrapText(userAnswer, 80));
+            }
+        }
     }
 
-    return 0;
+    window.clear(sf::Color(25, 25, 35));
+
+    window.draw(title);
+    window.draw(subtitle);
+    window.draw(questionText);
+    window.draw(button);
+    window.draw(buttonText);
+
+    window.draw(answerBox);
+    window.draw(answerText);
+    window.draw(saveButton);
+    window.draw(saveButtonText);
+
+    window.display();
 }
