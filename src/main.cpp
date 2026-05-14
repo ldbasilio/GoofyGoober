@@ -19,7 +19,7 @@ int main()
 
     sf::Font font;
 
-    if (!font.openFromFile("assets/fonts/AIK-ErikHolm.otf"))
+    if (!font.openFromFile("assets/fonts/Readfine Demo.ttf"))
     {
         std::cout << "Error loading font.\n";
         return 1;
